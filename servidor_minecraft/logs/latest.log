@@ -10750,3 +10750,11 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 02:47:00.999] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
 [14Dec2024 02:47:09.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Amateur Archaeologist]
 [14Dec2024 02:49:49.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Magery]
+[14Dec2024 02:52:29.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Teleported olyverr to Mobyius]
+[14Dec2024 02:54:06.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Teleported olyverr to Mobyius]
+[14Dec2024 02:55:33.713] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4580ms or 91 ticks behind
+[14Dec2024 02:55:33.750] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! -9.226827906320807,-0.9769118908984922,-4.5298039673707535
+[14Dec2024 02:56:37.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[14Dec2024 02:58:13.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Not a Diamond]
+[14Dec2024 02:58:48.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Disme A Dozen]
+[14Dec2024 02:59:52.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has reached the goal [Worthy Equipment]

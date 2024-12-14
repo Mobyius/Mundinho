@@ -5,6 +5,9 @@
 	nick: ""
 	last_seen: { dim: "minecraft:overworld", x: -6, y: 180, z: -8, time: 1734142944689L, xRot: 0.0f, yRot: 0.0f }
 	recording: 0
-	teleport_history: [ ]
+	teleport_history: [
+		{ dim: "minecraft:overworld", x: -125, y: -18, z: 109, time: 1734144749533L, xRot: 11.701504f, yRot: -15.442688f }
+		{ dim: "minecraft:overworld", x: -127, y: -18, z: 96, time: 1734144846107L, xRot: 6.1500564f, yRot: -80.87308f }
+	]
 	homes: { }
 }

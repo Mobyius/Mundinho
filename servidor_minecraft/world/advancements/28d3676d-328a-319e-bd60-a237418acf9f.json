@@ -149,6 +149,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-14 02:49:45 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/birch_planks": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
@@ -194,6 +206,12 @@
   "mcwfences:recipes/stone": {
     "criteria": {
       "has_stone": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -371,6 +389,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/alchemistry/combiner": {
     "criteria": {
       "has_item": "2024-12-14 02:39:39 +0000"
@@ -416,6 +440,12 @@
   "alltheores:recipes/alltheores/raw_nickel_from_block": {
     "criteria": {
       "has_item": "2024-12-14 02:41:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/iron_ladder": {
+    "criteria": {
+      "has_iron_bars": "2024-12-14 02:56:25 +0000"
     },
     "done": true
   },
@@ -503,6 +533,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/void_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:29:36 +0000"
@@ -524,6 +560,12 @@
   "rftoolsutility:recipes/rftoolsutility/text_module": {
     "criteria": {
       "ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/mason_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -619,6 +661,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_zinc_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/zinc]": "2024-12-14 02:45:20 +0000"
@@ -628,6 +676,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_leggings": "2024-12-14 02:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -682,6 +736,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_black": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/mob_yoinker": {
+    "criteria": {
+      "criterion0": "2024-12-14 02:56:25 +0000"
     },
     "done": true
   },
@@ -847,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/basalt_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
@@ -886,6 +952,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -955,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_gold_block": {
     "criteria": {
       "has_raw_gold": "2024-12-14 02:39:19 +0000"
@@ -967,6 +1045,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_log_bridge_middle": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2024-12-14 02:27:39 +0000"
@@ -976,6 +1060,12 @@
   "utilitix:recipes/utilitix/diamond_shears": {
     "criteria": {
       "criterion0": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_1": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -1069,6 +1159,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/birch_rail_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:18 +0000"
@@ -1078,6 +1174,12 @@
   "cfm:recipes/cfm/stripped_oak_mail_box": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "werewolves:recipes/werewolves/stone_altar": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -1265,6 +1367,12 @@
   "additionallanterns:recipes/additionallanterns/deepslate_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/crafting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -1546,6 +1654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/iron_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:39:39 +0000"
@@ -1555,6 +1669,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_orange": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/tinkerer_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -1576,6 +1696,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/birch_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "ae2additions:recipes/ae2additions/super_cell_housing": {
     "criteria": {
       "has_item": "2024-12-14 02:40:41 +0000"
@@ -1588,9 +1714,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_slab_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pneumatic_wrench": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -1738,6 +1876,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
@@ -1759,6 +1903,18 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/filter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -1804,6 +1960,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
@@ -1834,9 +2002,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "simplemagnets:recipes/simplemagnets/basicmagnet": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/restock_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/vampire/altar_pillar": {
+    "criteria": {
+      "has_stones": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -1889,9 +2075,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_copper_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:33:57 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/botanist_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -1922,6 +2120,12 @@
   "vampirism:recipes/vampirism/vampire/altar_inspiration": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/feeding_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -2099,6 +2303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_tile": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -2171,6 +2381,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:40 +0000"
@@ -2234,6 +2450,18 @@
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-14 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/anvil_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -2326,6 +2554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_sword": {
     "criteria": {
       "has_sticks": "2024-12-14 02:27:40 +0000"
@@ -2335,6 +2569,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2024-12-14 02:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -2374,6 +2614,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/gold_chain": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:32:00 +0000"
@@ -2407,6 +2653,12 @@
   "cfm:recipes/cfm/stripped_crimson_mail_box": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/battery_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -2446,6 +2698,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tool_swapper_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/sandstone": {
     "criteria": {
       "has_sand": "2024-12-14 02:22:25 +0000"
@@ -2461,6 +2719,12 @@
   "mcwroofs:recipes/gutters": {
     "criteria": {
       "has_planks": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -2491,6 +2755,12 @@
   "undergarden:undergarden/root": {
     "criteria": {
       "tick": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/philosopher_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -2668,9 +2938,21 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "sfm:recipes/sfm/cable": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smoking_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -2879,6 +3161,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/stone_bricks_chain": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_white": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -2951,6 +3239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/lava_lamp": {
     "criteria": {
       "has_wood": "2024-12-14 02:39:40 +0000"
@@ -2966,6 +3260,12 @@
   "securitycraft:recipes/securitycraft/briefcase": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pickup_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -2996,6 +3296,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/kerosene_lamp": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -3035,6 +3341,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/stone_brick_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
@@ -3068,6 +3380,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -3159,6 +3477,24 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -3324,6 +3660,12 @@
     },
     "done": true
   },
+  "quarryplus:recipes/solid_fuel_quarry": {
+    "criteria": {
+      "has_diamond_pickaxe": "2024-12-14 02:49:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
@@ -3345,6 +3687,12 @@
   "vampirism:recipes/vampirism/general/throne": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_blue": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -3506,6 +3854,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -3560,6 +3914,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/camo_applicator": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -3596,6 +3956,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/carpenter_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "rootsclassic:recipes/rootsclassic/attuned_standing_stone": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -3611,6 +3977,12 @@
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/antenna": {
+    "criteria": {
+      "bars": "2024-12-14 02:56:25 +0000"
     },
     "done": true
   },
@@ -3698,9 +4070,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/silver_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2024-12-14 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-14 02:52:56 +0000"
     },
     "done": true
   },
@@ -3765,6 +4149,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/shepherd_workbench_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:40 +0000"
@@ -3801,6 +4191,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_green": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/gas_lift": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -3822,6 +4218,12 @@
   "alltheores:recipes/alltheores/raw_tin_from_block": {
     "criteria": {
       "has_item": "2024-12-14 02:32:35 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark_r": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -3921,6 +4323,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -3984,6 +4392,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-14 02:34:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2024-12-14 02:49:08 +0000"
     },
     "done": true
   },
@@ -4275,6 +4689,18 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_light": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-14 02:27:39 +0000"
@@ -4284,6 +4710,12 @@
   "alltheores:recipes/alltheores/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -4466,6 +4898,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-14 02:26:30 +0000",
       "minecraft:jagged_peaks": "2024-12-14 02:22:26 +0000",
+      "minecraft:flower_forest": "2024-12-14 02:55:27 +0000",
       "minecraft:deep_dark": "2024-12-14 02:36:03 +0000",
       "minecraft:meadow": "2024-12-14 02:26:53 +0000",
       "minecraft:plains": "2024-12-14 02:33:58 +0000"
@@ -4542,6 +4975,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-14 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-14 02:49:48 +0000"
     },
     "done": true
   },
@@ -4689,6 +5128,12 @@
     },
     "done": true
   },
+  "corail_woodcutter:recipes/from_birch_planks": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/alltheores/raw_osmium_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/osmium]": "2024-12-14 02:38:49 +0000"
@@ -4719,6 +5164,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_barrel": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_reinforced_hull": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -4728,6 +5179,12 @@
   "cfm:recipes/cfm/birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_light_r": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -4743,6 +5200,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/stone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:47:54 +0000"
+    },
+    "done": true
+  },
   "dimstorage:recipes/dimstorage_tab/dim_core": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -4752,6 +5215,12 @@
   "corail_woodcutter:recipes/from_oak_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:29:36 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -4812,6 +5281,12 @@
   "alltheores:recipes/alltheores/raw_osmium_from_block": {
     "criteria": {
       "has_item": "2024-12-14 02:42:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -5001,6 +5476,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_1": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "silentgear:recipes/silentgear/upgrade_base": {
     "criteria": {
       "has_item": "2024-12-14 02:29:37 +0000"
@@ -5085,6 +5566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -5118,6 +5605,24 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_3": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_2": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/birch_limited_barrel_4": {
+    "criteria": {
+      "has_birch_plank": "2024-12-14 02:54:35 +0000"
     },
     "done": true
   },
@@ -5172,6 +5677,12 @@
   "cfm:recipes/cfm/yellow_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_red_r": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -5268,6 +5779,12 @@
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-12-14 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_red": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -5446,6 +5963,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_valve_x4": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -5476,9 +5999,21 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/birch_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/directional_rail": {
     "criteria": {
       "criterion1": "2024-12-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
     },
     "done": true
   },
@@ -5645,6 +6180,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/rope_birch_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -5660,6 +6201,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_blue": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -5909,6 +6456,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/birch_blossom_trapdoor": {
+    "criteria": {
+      "has_plankss": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/automatic_tee_junction_rail": {
     "criteria": {
       "has_item": "2024-12-14 02:38:49 +0000"
@@ -5951,6 +6504,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/pressure_chamber_wall": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -5972,6 +6531,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_green_r": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -6121,6 +6686,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak/oak_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:29:18 +0000"
@@ -6193,6 +6764,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/blasting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2024-12-14 02:32:31 +0000"
@@ -6262,6 +6839,18 @@
   "pneumaticcraft:recipes/pneumaticcraft/logistics_core": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/stone_brick_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
@@ -6361,6 +6950,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -6376,6 +6971,24 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/compacting_upgrade": {
+    "criteria": {
+      "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_blue_r": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-14 02:47:54 +0000"
     },
     "done": true
   },
