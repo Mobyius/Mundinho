@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 19:39:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
@@ -3899,6 +3905,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/flowering_azalea_hedge": {
+    "criteria": {
+      "has_leaves": "2024-12-14 19:42:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
@@ -4523,6 +4535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 19:39:54 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-14 03:03:38 +0000"
@@ -4893,6 +4911,12 @@
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-14 19:39:54 +0000"
     },
     "done": true
   },
@@ -9738,6 +9762,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/smooth_stone_chain": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 19:39:54 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2024-12-14 03:10:25 +0000"
@@ -10300,6 +10330,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_stone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 19:39:54 +0000"
     },
     "done": true
   },

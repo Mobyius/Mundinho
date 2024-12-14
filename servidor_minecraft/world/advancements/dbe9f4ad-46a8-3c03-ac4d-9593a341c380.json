@@ -799,6 +799,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2024-12-14 19:40:28 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/advanced_connector_yellow_dye": {
     "criteria": {
       "chest": "2024-12-14 02:54:25 +0000"
@@ -1921,6 +1927,12 @@
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-14 19:40:28 +0000"
     },
     "done": true
   },
@@ -4356,6 +4368,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_slab_from_spruce_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:39:07 +0000",
+      "has_block": "2024-12-14 19:39:07 +0000"
+    },
+    "done": true
+  },
   "reliquary:recipes/reliquary/glowing_bread": {
     "criteria": {
       "has_glowing_water": "2024-12-14 02:41:35 +0000"
@@ -4812,6 +4831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_stripped_spruce_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:40:28 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cooked_egg": {
     "criteria": {
       "has_eggs": "2024-12-14 02:12:30 +0000"
@@ -5160,6 +5185,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-14 02:51:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_blinds": {
+    "criteria": {
+      "has_log": "2024-12-14 19:40:28 +0000"
     },
     "done": true
   },
@@ -5888,6 +5919,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-14 13:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:39:07 +0000"
     },
     "done": true
   },
@@ -6973,6 +7010,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2024-12-14 19:40:28 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2024-12-14 02:12:30 +0000"
@@ -7559,6 +7602,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-14 19:40:28 +0000"
     },
     "done": true
   },
@@ -8492,6 +8541,12 @@
   "mcwlights:recipes/garden_light": {
     "criteria": {
       "has_wood": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-14 19:40:28 +0000"
     },
     "done": true
   },
