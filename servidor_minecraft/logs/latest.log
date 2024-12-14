@@ -10708,3 +10708,33 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 02:27:34.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
 [14Dec2024 02:29:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Stone Age]
 [14Dec2024 02:29:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Getting an Upgrade]
+[14Dec2024 02:30:32.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Made o a server operator]
+[14Dec2024 02:30:37.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Made olyverr a server operator]
+[14Dec2024 02:30:44.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Spectator Mode]
+[14Dec2024 02:31:08.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Survival Mode]
+[14Dec2024 02:31:29.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Stone Age]
+[14Dec2024 02:31:30.742] [Worker-Main-25/WARN] [ModernFix/]: The namespace supplementaries contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[14Dec2024 02:31:34.571] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=2, y=-56, z=-41}
+[14Dec2024 02:31:34.572] [Worker-Main-25/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=3, y=-56, z=-41}
+[14Dec2024 02:31:42.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Getting an Upgrade]
+[14Dec2024 02:31:59.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement ['X' Marks the Spot]
+[14Dec2024 02:32:01.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Captured!]
+[14Dec2024 02:34:17.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Spectator Mode]
+[14Dec2024 02:34:47.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[14Dec2024 02:35:43.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Spectator Mode]
+[14Dec2024 02:36:08.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Survival Mode]
+[14Dec2024 02:36:23.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Spectator Mode]
+[14Dec2024 02:36:52.638] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr moved wrongly!
+[14Dec2024 02:36:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Tunnel Treasures]
+[14Dec2024 02:37:09.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Suit Up]
+[14Dec2024 02:37:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Apothic Affixes]
+[14Dec2024 02:37:09.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [I Found It Underground]
+[14Dec2024 02:37:15.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [The First Explosion (of many?)]
+[14Dec2024 02:37:17.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Isn't It Iron Pick]
+[14Dec2024 02:37:55.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr moved wrongly!
+[14Dec2024 02:38:20.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Survival Mode]
+[14Dec2024 02:38:54.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [A Strange Ore]
+[14Dec2024 02:39:03.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Acquire Hardware]
+[14Dec2024 02:39:35.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Isn't It Iron Pick]
+[14Dec2024 02:39:39.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Acquire Hardware]
+[14Dec2024 02:39:40.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Diamonds!]
