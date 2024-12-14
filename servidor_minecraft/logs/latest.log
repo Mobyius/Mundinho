@@ -10680,3 +10680,31 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 02:16:28.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
 [14Dec2024 02:16:44.304] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [14Dec2024 02:17:38.136] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6e9294be[id=<null>,name=olyverr,properties={},legacy=false] (/172.30.210.193:52586) lost connection: Disconnected
+[14Dec2024 02:22:16.164] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@515b33a0
+[14Dec2024 02:22:16.248] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/172.30.231.113:60780] logged in with entity id 2669 at (20.110850675358368, 185.0, 73.47988388508008)
+[14Dec2024 02:22:16.250] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[14Dec2024 02:22:16.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[14Dec2024 02:22:16.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[14Dec2024 02:22:16.251] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[14Dec2024 02:22:16.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[14Dec2024 02:22:16.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[14Dec2024 02:22:16.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[14Dec2024 02:22:16.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[14Dec2024 02:22:16.713] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[14Dec2024 02:22:24.045] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3eebcc2e
+[14Dec2024 02:22:24.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:52926] logged in with entity id 2724 at (-5.5, 180.0, -7.5)
+[14Dec2024 02:22:24.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[14Dec2024 02:22:24.075] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[14Dec2024 02:22:24.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[14Dec2024 02:22:24.076] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[14Dec2024 02:22:24.077] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[14Dec2024 02:22:24.079] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[14Dec2024 02:22:24.080] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[14Dec2024 02:22:24.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[14Dec2024 02:22:24.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Christmas]
+[14Dec2024 02:22:24.763] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[14Dec2024 02:27:11.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Mobyius a server operator
+[14Dec2024 02:27:26.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[14Dec2024 02:27:34.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
+[14Dec2024 02:29:16.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Stone Age]
+[14Dec2024 02:29:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Getting an Upgrade]

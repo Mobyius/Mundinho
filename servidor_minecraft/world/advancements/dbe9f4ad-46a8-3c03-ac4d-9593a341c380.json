@@ -6,6 +6,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:26:20 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/note_hook": {
     "criteria": {
       "has_items": "2024-12-14 02:12:30 +0000"
@@ -48,15 +54,15 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_byg_cypress_planks": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_byg_cypress_planks": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -96,15 +102,15 @@
     },
     "done": true
   },
-  "immersivepetroleum:recipes/immersivepetroleum/projector": {
-    "criteria": {
-      "has_the_recipe": "2024-12-14 02:12:29 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "immersivepetroleum:recipes/immersivepetroleum/projector": {
+    "criteria": {
+      "has_the_recipe": "2024-12-14 02:12:29 +0000"
     },
     "done": true
   },
@@ -156,15 +162,15 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_transformation_planks": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/building_blocks/exposed_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_transformation_planks": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -181,15 +187,15 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_byg_palm_planks": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersiveengineering/toolupgrade_drill_lube": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_byg_palm_planks": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -252,6 +258,13 @@
     "criteria": {
       "has_bamboo": "2024-12-14 02:12:30 +0000",
       "has_bundle": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_slab_from_dark_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2024-12-14 02:26:20 +0000",
+      "has_block": "2024-12-14 02:26:20 +0000"
     },
     "done": true
   },
@@ -345,15 +358,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
-    "criteria": {
-      "has_items": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/misc/jellyfish_to_slimeball": {
+    "criteria": {
+      "has_items": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -503,12 +516,6 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2024-12-14 02:12:31 +0000"
-    },
-    "done": true
-  },
   "create:root": {
     "criteria": {
       "0": "2024-12-14 02:12:30 +0000"
@@ -518,6 +525,12 @@
   "corail_woodcutter:recipes/from_byg_jacaranda_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2024-12-14 02:12:31 +0000"
     },
     "done": true
   },
@@ -689,15 +702,15 @@
     },
     "done": true
   },
-  "undergarden:undergarden/root": {
-    "criteria": {
-      "tick": "2024-12-14 02:12:31 +0000"
-    },
-    "done": true
-  },
   "bambooeverything:recipes/bamboo_bundle_uncrafting": {
     "criteria": {
       "has_bundle": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2024-12-14 02:12:31 +0000"
     },
     "done": true
   },
@@ -767,15 +780,15 @@
     },
     "done": true
   },
-  "corail_woodcutter:recipes/from_mining_planks": {
-    "criteria": {
-      "has_ingredient": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "corail_woodcutter:recipes/from_mining_planks": {
+    "criteria": {
+      "has_ingredient": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -853,16 +866,16 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2024-12-14 02:12:31 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/food/sushi": {
     "criteria": {
       "has_alt_items": "2024-12-14 02:12:30 +0000",
       "has_items": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-14 02:12:31 +0000"
     },
     "done": true
   },
@@ -1069,15 +1082,15 @@
     },
     "done": true
   },
-  "aquaculture:recipes/aquaculture/iron_hook": {
-    "criteria": {
-      "has_items": "2024-12-14 02:12:30 +0000"
-    },
-    "done": true
-  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_icebreaker": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "aquaculture:recipes/aquaculture/iron_hook": {
+    "criteria": {
+      "has_items": "2024-12-14 02:12:30 +0000"
     },
     "done": true
   },
@@ -1093,15 +1106,15 @@
     },
     "done": true
   },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-14 02:12:31 +0000"
-    },
-    "done": true
-  },
   "aquaculture:recipes/decorations/jungle_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-14 02:12:31 +0000"
     },
     "done": true
   },
