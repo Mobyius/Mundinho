@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "elementalcraft:pickup/water_shard": {
+    "criteria": {
+      "has_water_shard": "2024-12-14 17:48:52 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/charcoal": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:27:39 +0000"
@@ -380,6 +386,12 @@
   "sfm:recipes/sfm/disk": {
     "criteria": {
       "has_redstone": "2024-12-14 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/misc/tools/modifiers/wither_bone_conversion": {
+    "criteria": {
+      "has_bone": "2024-12-14 17:52:05 +0000"
     },
     "done": true
   },
@@ -2410,6 +2422,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2024-12-14 17:50:20 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2024-12-14 02:22:25 +0000"
@@ -2443,6 +2461,12 @@
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2024-12-14 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "vampirism:recipes/vampirism/hunter/crossbow_arrow_from_vanilla": {
+    "criteria": {
+      "has_arrow": "2024-12-14 17:50:47 +0000"
     },
     "done": true
   },
@@ -3448,6 +3472,12 @@
     },
     "done": true
   },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "white": "2024-12-14 17:44:41 +0000"
+    },
+    "done": false
+  },
   "ftbic:recipes/misc/macerating/bone_meal": {
     "criteria": {
       "has_item": "2024-12-14 02:58:42 +0000"
@@ -4271,6 +4301,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2024-12-14 17:50:38 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2024-12-14 02:22:24 +0000",
@@ -4335,6 +4371,12 @@
   "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_green": {
     "criteria": {
       "has_xychorium_gem_green": "2024-12-14 03:05:44 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:recipes/elementalcraft/powerful_water_shard_from_water_shards": {
+    "criteria": {
+      "has_water_shard": "2024-12-14 17:48:52 +0000"
     },
     "done": true
   },
@@ -5154,7 +5196,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2024-12-14 17:35:33 +0000",
-      "minecraft:creeper": "2024-12-14 17:43:04 +0000"
+      "minecraft:creeper": "2024-12-14 17:43:04 +0000",
+      "minecraft:wither_skeleton": "2024-12-14 17:50:20 +0000",
+      "minecraft:stray": "2024-12-14 17:48:51 +0000"
     },
     "done": false
   },
@@ -6744,6 +6788,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/cancel_ghostly_shape": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 17:50:49 +0000"
+    },
+    "done": true
+  },
   "mcwlights:recipes/tiki_torches": {
     "criteria": {
       "has_wood": "2024-12-14 02:31:20 +0000"
@@ -6863,6 +6913,12 @@
       "has_birch": "2024-12-14 02:22:25 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2024-12-14 17:46:56 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/stripped_spruce_mail_box": {
     "criteria": {
@@ -7224,6 +7280,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 17:50:34 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/print_classic": {
     "criteria": {
       "has_logs": "2024-12-14 02:29:18 +0000"
@@ -7251,6 +7313,12 @@
   "rftoolsbase:recipes/rftoolsbase/infused_enderpearl": {
     "criteria": {
       "shard": "2024-12-14 03:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-14 17:46:56 +0000"
     },
     "done": true
   },
@@ -7594,6 +7662,12 @@
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/first_knowledge": {
+    "criteria": {
+      "coded_trigger": "2024-12-14 17:50:34 +0000"
     },
     "done": true
   },
@@ -8365,6 +8439,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "byg:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2024-12-14 17:46:56 +0000"
     },
     "done": true
   },
