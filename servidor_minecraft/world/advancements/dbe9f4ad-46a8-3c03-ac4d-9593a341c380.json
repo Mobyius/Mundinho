@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-14 02:41:31 +0000"
@@ -419,6 +425,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_boots": {
     "criteria": {
       "has_item": "2024-12-14 02:41:31 +0000"
@@ -536,6 +548,12 @@
   "cfm:recipes/cfm/brown_cooler": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -1165,6 +1183,18 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/extruding/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2024-12-14 03:00:08 +0000"
@@ -1312,6 +1342,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-14 02:39:35 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -1607,6 +1643,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/misc/macerating/string": {
+    "criteria": {
+      "has_item": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -1906,9 +1948,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -1999,6 +2053,12 @@
   "apotheosis:affix/rare": {
     "criteria": {
       "sword": "2024-12-14 14:43:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -2116,6 +2176,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/minecolonies/blockconstructiontape": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_spruce_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 02:28:47 +0000"
@@ -2188,6 +2254,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:39:53 +0000"
@@ -2221,6 +2293,12 @@
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -2537,6 +2615,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/botanist_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:00 +0000"
@@ -2610,6 +2694,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-14 02:51:47 +0000"
@@ -2625,6 +2715,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-14 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_sofa": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -2724,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2024-12-14 02:28:57 +0000"
@@ -2733,6 +2835,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -3173,6 +3281,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "create:copper": {
     "criteria": {
       "0": "2024-12-14 02:41:31 +0000"
@@ -3266,6 +3380,12 @@
   "ae2:recipes/ae2.main/network/cells/item_cell_housing": {
     "criteria": {
       "has_dusts/redstone": "2024-12-14 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -3407,6 +3527,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/blue_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-14 13:33:54 +0000"
@@ -3500,6 +3626,12 @@
   "alchemistry:recipes/dissolver/redstone_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:39:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -3965,6 +4097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/crucifix": {
     "criteria": {
       "planks": "2024-12-14 02:28:47 +0000"
@@ -4302,6 +4440,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_stairs": {
     "criteria": {
       "has_dry_bundle": "2024-12-14 02:12:30 +0000"
@@ -4461,6 +4605,12 @@
   "cfm:recipes/cfm/green_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -4663,6 +4813,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/coffin_white": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_canopy_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
@@ -4847,6 +5003,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:29:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -5201,6 +5363,12 @@
     },
     "done": true
   },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "modonomicon:modonomicon/root": {
     "criteria": {
       "modonomicon_present": "2024-12-14 02:12:31 +0000"
@@ -5216,6 +5384,12 @@
   "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -5501,6 +5675,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_paddles": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
@@ -5648,6 +5828,18 @@
   "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -5868,6 +6060,12 @@
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/white_sheet": {
+    "criteria": {
+      "has_sheet": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -6106,6 +6304,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/white_cushion": {
+    "criteria": {
+      "has_cushion": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -6313,6 +6517,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 13:47:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -6565,6 +6775,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/stomp_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 13:29:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -6991,6 +7207,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-14 02:12:30 +0000"
@@ -7148,6 +7370,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:28:05 +0000"
@@ -7205,6 +7433,12 @@
   "alchemistry:recipes/dissolver/cooked_porkchop": {
     "criteria": {
       "has_the_recipe": "2024-12-14 15:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -7365,6 +7599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2024-12-14 03:06:10 +0000"
@@ -7437,6 +7677,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-14 02:39:40 +0000"
@@ -7446,6 +7692,12 @@
   "mcwbridges:recipes/oak_log_bridge_middle": {
     "criteria": {
       "has_planks": "2024-12-14 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },
@@ -8051,6 +8303,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
+    "criteria": {
+      "has_wool": "2024-12-14 18:42:03 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt2": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
@@ -8234,6 +8492,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stonecutter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:00 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/awning": {
+    "criteria": {
+      "has_planks": "2024-12-14 18:42:03 +0000"
     },
     "done": true
   },

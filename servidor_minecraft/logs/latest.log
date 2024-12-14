@@ -3029,3 +3029,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 18:30:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [14Dec2024 18:30:25.277] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
 [14Dec2024 18:30:25.457] [Server thread/INFO] [Jade/]: Syncing config to Mobyius (dbe9f4ad-46a8-3c03-ac4d-9593a341c380)
+[14Dec2024 18:40:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[14Dec2024 18:41:07.777] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify zombie attack target task for translation{key='entity.irons_spellbooks.summoned_zombie', args=[]}
+[14Dec2024 18:41:58.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 18:42:35.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]

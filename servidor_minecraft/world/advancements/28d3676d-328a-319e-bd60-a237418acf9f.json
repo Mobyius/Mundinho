@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
     "criteria": {
       "has_ingots_iron": "2024-12-14 02:39:39 +0000"
@@ -242,6 +248,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/crop_support": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -656,6 +668,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_cyan": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -1085,6 +1103,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_brown": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_button_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:29:37 +0000"
@@ -1118,6 +1142,12 @@
   "additionallanterns:recipes/additionallanterns/bone_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -1463,6 +1493,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "constructionwand:recipes/tools/stone_wand": {
     "criteria": {
       "has_item": "2024-12-14 02:31:29 +0000"
@@ -1484,6 +1520,12 @@
   "vampirism:recipes/vampirism/vampire/altar_inspiration": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_blue": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -1991,6 +2033,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/locomotive_route": {
     "criteria": {
       "has_item": "2024-12-14 03:10:25 +0000"
@@ -2265,6 +2313,12 @@
   "bambooeverything:recipes/bamboo_stairs": {
     "criteria": {
       "has_bundle": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_pink": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -3039,6 +3093,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-14 17:42:45 +0000"
@@ -3382,6 +3442,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/mud_brick": {
     "criteria": {
       "has_qq": "2024-12-14 02:22:25 +0000"
@@ -3403,6 +3469,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_orange": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -3754,6 +3826,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "solcarrot:recipes/food_book": {
     "criteria": {
       "has_book": "2024-12-14 02:22:25 +0000",
@@ -3782,6 +3860,18 @@
   "bambooeverything:recipes/bamboo_slab": {
     "criteria": {
       "has_bundle": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_lime": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -3929,6 +4019,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_red": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "dimstorage:recipes/dimstorage_tab/dim_core": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -3995,6 +4091,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-14 02:40:21 +0000"
@@ -4004,6 +4106,12 @@
   "minecraft:recipes/food/bread": {
     "criteria": {
       "has_wheat": "2024-12-14 02:59:40 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_black": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -4181,6 +4289,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -4196,6 +4310,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -4334,6 +4454,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-14 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -4490,6 +4616,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -4667,6 +4799,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_upgraded_fence": {
     "criteria": {
       "has_log": "2024-12-14 18:19:44 +0000"
@@ -4689,6 +4827,12 @@
   "rftoolsstorage:recipes/rftoolsstorage/storage_module0": {
     "criteria": {
       "redstone": "2024-12-14 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -4986,6 +5130,18 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_light_blue": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "elementalcraft:recipes/elementalcraft/powerful_air_shard_from_air_shards": {
     "criteria": {
       "has_air_shard": "2024-12-14 17:36:46 +0000"
@@ -5154,6 +5310,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2024-12-14 17:58:00 +0000"
@@ -5238,6 +5400,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "rftoolsutility:recipes/rftoolsutility/module_template": {
     "criteria": {
       "dimshards": "2024-12-14 03:05:51 +0000"
@@ -5271,6 +5439,18 @@
   "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_yellow": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_green": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -5538,6 +5718,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:27:39 +0000"
@@ -5568,6 +5754,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/brown_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-14 18:08:18 +0000"
@@ -5589,6 +5781,12 @@
   "alltheores:recipes/alltheores/raw_silver_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/silver]": "2024-12-14 02:38:59 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_gray": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -5721,6 +5919,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "sfm:recipes/sfm/water_tank": {
+    "criteria": {
+      "has_water": "2024-12-14 18:45:34 +0000"
     },
     "done": true
   },
@@ -6406,6 +6610,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-14 02:34:21 +0000"
@@ -6561,6 +6771,12 @@
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-14 03:08:19 +0000"
+    },
+    "done": true
+  },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_white": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
     },
     "done": true
   },
@@ -6756,6 +6972,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:18 +0000"
@@ -6891,6 +7113,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -7380,6 +7608,12 @@
     },
     "done": true
   },
+  "immersiveengineering:recipes/immersiveengineering/crafting/radiator": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 18:45:34 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
@@ -7470,6 +7704,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_purple": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "delightful:recipes/storage/acorn_storage_block": {
     "criteria": {
       "has_acorn": "2024-12-14 18:11:27 +0000"
@@ -7500,11 +7740,23 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_colorless": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "quark:get_all_corundum": {
     "criteria": {
       "white": "2024-12-14 17:44:41 +0000"
     },
     "done": false
+  },
+  "cfm:recipes/cfm/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
   },
   "rechiseled:recipes/rechiseled/chisel": {
     "criteria": {
@@ -7719,6 +7971,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_red": {
     "criteria": {
       "has_kivi": "2024-12-14 03:01:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -8294,6 +8552,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-14 18:45:34 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -8390,6 +8654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-14 18:45:34 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/building_blocks/macerating/cobblestone": {
     "criteria": {
       "has_item": "2024-12-14 03:01:17 +0000"
@@ -8399,6 +8669,12 @@
   "cfm:recipes/cfm/oak_kitchen_drawer": {
     "criteria": {
       "has_log": "2024-12-14 02:29:18 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -8429,6 +8705,12 @@
   "create:recipes/create.palettes/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-14 03:08:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-14 18:45:34 +0000"
     },
     "done": true
   },
@@ -8938,6 +9220,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_light_gray": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -9084,6 +9372,12 @@
     },
     "done": false
   },
+  "cfm:recipes/cfm/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/rolling/ingots/gold_to_gold_plate": {
     "criteria": {
       "has_item": "2024-12-14 02:32:00 +0000"
@@ -9183,6 +9477,12 @@
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -9781,6 +10081,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_lantern_magenta": {
+    "criteria": {
+      "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/oxidized_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -9935,6 +10241,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
@@ -10603,6 +10915,12 @@
   "vampirism:recipes/vampirism/weapontable/crucifix_enhanced": {
     "criteria": {
       "iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2024-12-14 18:40:05 +0000"
     },
     "done": true
   },
