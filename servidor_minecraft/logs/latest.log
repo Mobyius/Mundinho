@@ -2864,3 +2864,68 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:635) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
 	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14Dec2024 17:21:38.511] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[14Dec2024 17:21:53.617] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71ade7f9
+[14Dec2024 17:21:53.725] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:50757] logged in with entity id 1474 at (-152.75871650086026, 133.0, 141.53635921469436)
+[14Dec2024 17:21:53.861] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent net/minecraft/client/resources/sounds/AbstractTickableSoundInstance for class ram/talia/hexal/client/sounds/WispCastingSoundInstance in classloader cpw.mods.modlauncher.TransformingClassLoader@4990b335 on thread Thread[#106,Server thread,5,SERVER]
+[14Dec2024 17:21:53.861] [Server thread/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.AbstractTickableSoundInstance
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:141) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.buildEvents(EventSubclassTransformer.java:92) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventSubclassTransformer.transform(EventSubclassTransformer.java:44) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBusEngine.processClass(EventBusEngine.java:26) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.service.ModLauncherService.processClassWithFlags(ModLauncherService.java:32) ~[eventbus-6.0.3.jar%2351!/:6.0.3+6.0.3+master.039e4ea9]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:88) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.maybeTransformClassBytes(TransformingClassLoader.java:50) ~[modlauncher-10.0.8.jar%2354!/:?]
+	at cpw.mods.cl.ModuleClassLoader.readerToClass(ModuleClassLoader.java:113) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.lambda$findClass$15(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadFromModule(ModuleClassLoader.java:229) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.findClass(ModuleClassLoader.java:219) ~[securejarhandler-2.1.4.jar:?]
+	at cpw.mods.cl.ModuleClassLoader.loadClass(ModuleClassLoader.java:135) ~[securejarhandler-2.1.4.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:526) ~[?:?]
+	at java.lang.Class.getDeclaredFields0(Native Method) ~[?:?]
+	at java.lang.Class.privateGetDeclaredFields(Class.java:3473) ~[?:?]
+	at java.lang.Class.getDeclaredFields(Class.java:2542) ~[?:?]
+	at org.embeddedt.modernfix.entity.EntityDataIDSyncHandler.onDatapackSyncEvent(EntityDataIDSyncHandler.java:33) ~[modernfix-forge-5.10.1+mc1.19.2.jar%23692!/:5.10.1+mc1.19.2]
+	at org.embeddedt.modernfix.forge.init.ModernFixForge.onDatapackSync(ModernFixForge.java:78) ~[modernfix-forge-5.10.1+mc1.19.2.jar%23692!/:5.10.1+mc1.19.2]
+	at org.embeddedt.modernfix.forge.init.__ModernFixForge_onDatapackSync_OnDatapackSyncEvent.invoke(.dynamic) ~[modernfix-forge-5.10.1+mc1.19.2.jar%23692!/:5.10.1+mc1.19.2]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraft.server.players.PlayerList.m_11261_(PlayerList.java:173) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_143699_(ServerLoginPacketListenerImpl.java:156) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_10055_(ServerLoginPacketListenerImpl.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.m_9933_(ServerLoginPacketListenerImpl.java:75) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23845!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[14Dec2024 17:21:53.863] [Server thread/ERROR] [ModernFix/]: Skipping entity ID sync for ram.talia.hexal.common.entities.BaseCastingWisp: java.lang.NoClassDefFoundError: net/minecraft/client/resources/sounds/AbstractTickableSoundInstance
+[14Dec2024 17:21:54.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[14Dec2024 17:21:54.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[14Dec2024 17:21:54.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[14Dec2024 17:21:54.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[14Dec2024 17:21:54.659] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[14Dec2024 17:21:54.662] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[14Dec2024 17:21:54.662] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[14Dec2024 17:21:54.671] [Server thread/INFO] [com.klikli_dev.modonomicon.Modonomicon/]: Building books ...
+[14Dec2024 17:21:54.676] [Server thread/WARN] [com.klikli_dev.modonomicon.Modonomicon/]: Recipe minecraft:iron_ingot_from_blasting_iron_ore (of type minecraft:blasting) not found.
+[14Dec2024 17:21:54.677] [Server thread/WARN] [com.klikli_dev.modonomicon.Modonomicon/]: Recipe minecraft:netherite_axe_smithing_does_not_exist (of type minecraft:smithing) not found.
+[14Dec2024 17:21:54.677] [Server thread/INFO] [com.klikli_dev.modonomicon.Modonomicon/]: Books built.
+[14Dec2024 17:21:54.677] [Server thread/INFO] [com.klikli_dev.modonomicon.Modonomicon/]: Adding read conditions ...
+[14Dec2024 17:21:54.677] [Server thread/INFO] [com.klikli_dev.modonomicon.Modonomicon/]: Read conditions added.
+[14Dec2024 17:21:54.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[14Dec2024 17:21:55.105] [Netty Epoll Server IO #1/INFO] [immersiveengineering/]: Recipes for potions: minecraft:strong_strength, potionsmaster:copper_sight, mna:greater_mana_potion, apotheosis:strong_grievous, minecraft:long_invisibility, potionsmaster:quartz_sight, tombstone:earthly_garden, minecraft:mundane, minecraft:long_fire_resistance, apotheosis:long_sundering, ars_elemental:shock_potion, undergarden:strong_brittleness, minecraft:strength, deeperdarker:long_sculk_affinity, apotheosis:resistance, potionsmaster:lead_sight, minecraft:harming, potionsmaster:silver_sight, undergarden:strong_featherweight, minecraft:slow_falling, mna:superior_mana_potion, potionsmaster:iron_sight, minecraft:strong_healing, minecraft:long_water_breathing, minecraft:awkward, ars_nouveau:spell_damage_potion_long, potionsmaster:emerald_sight, potionsmaster:unobtainium_sight, minecraft:poison, ars_nouveau:shielding_potion_long, minecraft:strong_swiftness, minecraft:strong_poison, minecraft:strong_turtle_master, undergarden:long_featherweight, apotheosis:haste, ars_nouveau:recovery_potion_strong, minecraft:long_regeneration, potionsmaster:netherite_sight, ars_elemental:enderference_potion, potionsmaster:gold_sight, ars_nouveau:blasting_potion_long, minecraft:turtle_master, irons_spellbooks:instant_mana_one, deeperdarker:sculk_affinity, potionsmaster:coal_sight, mna:light_mana_potion, apotheosis:long_knowledge, apotheosis:vitality, minecraft:long_poison, undergarden:brittleness, minecraft:leaping, ars_nouveau:shielding_potion, minecraft:strong_harming, undergarden:long_virulent_resistance, apotheosis:long_resistance, minecraft:luck, apotheosis:strong_knowledge, potionsmaster:vibranium_sight, mna:mana_potion, apotheosis:grievous, ars_nouveau:freezing_potion_strong, minecraft:healing, ars_elemental:shock_potion_long, mna:minor_mana_potion, ars_nouveau:blasting_potion, minecraft:swiftness, ars_nouveau:blasting_potion_strong, irons_spellbooks:instant_mana_three, minecraft:long_slow_falling, minecraft:water, apotheosis:long_vitality, potionsmaster:crimsoniron_sight, ars_nouveau:recovery_potion_long, potionsmaster:uranium_sight, potionsmaster:nickel_sight, ars_nouveau:shielding_potion_strong, potionsmaster:osmium_sight, tombstone:bait, apotheosis:long_haste, minecraft:invisibility, tombstone:discretion, apotheosis:absorption, apotheosis:knowledge, potionsmaster:zinc_sight, potionsmaster:platinum_sight, quark:strong_resilience, undergarden:long_glowing, potionsmaster:diamond_sight, minecraft:strong_slowness, potionsmaster:redstone_sight, apotheosis:fatigue, minecraft:long_strength, potionsmaster:aluminum_sight, ars_nouveau:mana_regen_potion_long, tombstone:darkness, minecraft:night_vision, minecraft:weakness, apotheosis:strong_sundering, potionsmaster:allthemodium_sight, undergarden:long_brittleness, apotheosis:strong_vitality, apotheosis:strong_absorption, apotheosis:strong_haste, minecraft:long_swiftness, apotheosis:strong_resistance, potionsmaster:tin_sight, undergarden:glowing, minecraft:long_leaping, potionsmaster:lapis_sight, minecraft:long_slowness, minecraft:strong_leaping, minecraft:regeneration, apotheosis:strong_fatigue, ars_nouveau:freezing_potion, minecraft:long_night_vision, apotheosis:sundering, apotheosis:wither, irons_spellbooks:instant_mana_four, ars_nouveau:mana_regen_potion_strong, apotheosis:long_fatigue, minecraft:fire_resistance, tombstone:frostbite, apotheosis:strong_wither, ars_nouveau:freezing_potion_long, apotheosis:long_wither, minecraft:slowness, minecraft:long_turtle_master, quark:long_resilience, undergarden:virulent_resistance, tombstone:restoration, minecraft:strong_regeneration, tombstone:spectral, ars_nouveau:mana_regen_potion, irons_spellbooks:instant_mana_two, undergarden:featherweight, minecraft:water_breathing, minecraft:long_weakness, ars_nouveau:spell_damage_potion_strong, quark:resilience, ars_nouveau:recovery_potion, apotheosis:long_grievous, ars_nouveau:spell_damage_potion, apotheosis:long_absorption, ars_elemental:enderference_potion_long, potionsmaster:bismuth_sight
+[14Dec2024 17:21:55.772] [Server thread/INFO] [structurize/]: New Server UUID 769f3011-7d10-4035-803c-3c48edc7ad75
+[14Dec2024 17:21:55.822] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[14Dec2024 17:21:55.993] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
+[14Dec2024 17:21:56.013] [Server thread/INFO] [chiefarug.mods.systeams.Systeams/]: Welcome aboard Captain. All Systeams online
+[14Dec2024 17:21:56.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2502ms or 50 ticks behind
+[14Dec2024 17:22:01.801] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[14Dec2024 17:23:54.437] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
