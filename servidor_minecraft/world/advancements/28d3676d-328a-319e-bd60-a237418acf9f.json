@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_chest_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/search_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
@@ -677,6 +683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/barrel_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 02:32:00 +0000"
@@ -869,6 +881,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pepperoni": {
+    "criteria": {
+      "has_pepper": "2024-12-14 18:32:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:31:29 +0000"
@@ -1016,6 +1034,12 @@
   "xnet:recipes/xnet/netcable_blue": {
     "criteria": {
       "nugget": "2024-12-14 17:55:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_pressure_plate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -1622,6 +1646,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 02:32:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_boat_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -2253,6 +2283,12 @@
   "create:recipes/create.palettes/small_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -3406,6 +3442,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_stairs_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:29:37 +0000"
@@ -3670,6 +3712,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_button_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "botania:recipes/botania/swap_ring": {
     "criteria": {
       "has_item": "2024-12-14 02:59:24 +0000"
@@ -3740,6 +3788,12 @@
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-14 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-14 18:33:34 +0000"
     },
     "done": true
   },
@@ -4190,6 +4244,12 @@
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/chest_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -5076,6 +5136,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_door_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:54:35 +0000"
@@ -5091,6 +5157,12 @@
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2024-12-14 17:58:00 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -6426,6 +6498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_trapdoor_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/cobblestone_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
@@ -7075,6 +7153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:40 +0000"
@@ -7440,6 +7524,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
@@ -7710,6 +7800,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_gate_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -7863,6 +7959,12 @@
   "mcwtrpdoors:recipes/metal/metal_full_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/crafting_table_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -8030,6 +8132,7 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "chile_pepper_seed": "2024-12-14 18:32:01 +0000",
       "oat_seed": "2024-12-14 18:22:20 +0000"
     },
     "done": false
@@ -8728,6 +8831,7 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
+      "chile_pepper_seed": "2024-12-14 18:32:01 +0000",
       "oat_seed": "2024-12-14 18:22:20 +0000"
     },
     "done": false
@@ -8995,6 +9099,12 @@
   "cfm:recipes/cfm/red_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/chile_pepper_seed": {
+    "criteria": {
+      "has_chile_pepper": "2024-12-14 18:32:01 +0000"
     },
     "done": true
   },
@@ -9834,6 +9944,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_gold_block": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:39:19 +0000"
@@ -9975,6 +10091,12 @@
   "botania:recipes/botania/manasteel_pick": {
     "criteria": {
       "has_item": "2024-12-14 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/spruce/spruce_fence_from_spruce_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 18:26:19 +0000"
     },
     "done": true
   },
@@ -10220,6 +10342,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/paprika": {
+    "criteria": {
+      "has_chile_peppers": "2024-12-14 18:32:01 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/candied_nuts": {
     "criteria": {
       "has_nut": "2024-12-14 18:11:27 +0000"
@@ -10453,6 +10581,12 @@
       "has_ingredient": "2024-12-14 02:22:25 +0000"
     },
     "done": true
+  },
+  "silentgear:overworld_plants": {
+    "criteria": {
+      "fluffy_seeds": "2024-12-14 18:31:26 +0000"
+    },
+    "done": false
   },
   "mcwlights:recipes/garden_light": {
     "criteria": {

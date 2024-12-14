@@ -3016,3 +3016,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 18:04:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Close Quarters]
 [14Dec2024 18:09:09.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set own game mode to Creative Mode]
 [14Dec2024 18:22:20.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [An Extra Seedy Place]
+[14Dec2024 18:30:09.265] [Netty Epoll Server IO #2/INFO] [mixin/]: Mixing common.MixinServerStatusSerializer from nochatreports.mixins.json into net.minecraft.network.protocol.status.ServerStatus$Serializer
+[14Dec2024 18:30:24.864] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@77832c12
+[14Dec2024 18:30:24.914] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/172.30.231.113:63401] logged in with entity id 32565 at (26.023429743094216, 124.0, 2107.979392691442)
+[14Dec2024 18:30:24.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[14Dec2024 18:30:24.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[14Dec2024 18:30:24.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[14Dec2024 18:30:24.956] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[14Dec2024 18:30:24.961] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[14Dec2024 18:30:24.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[14Dec2024 18:30:24.965] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[14Dec2024 18:30:25.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[14Dec2024 18:30:25.277] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[14Dec2024 18:30:25.457] [Server thread/INFO] [Jade/]: Syncing config to Mobyius (dbe9f4ad-46a8-3c03-ac4d-9593a341c380)
