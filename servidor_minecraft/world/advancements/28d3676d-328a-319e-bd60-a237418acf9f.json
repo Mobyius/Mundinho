@@ -155,6 +155,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:40 +0000"
@@ -599,6 +605,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/alchemy_table": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:37 +0000"
@@ -722,6 +734,12 @@
   "alltheores:recipes/alltheores/raw_platinum_block": {
     "criteria": {
       "has_raw_TagKey[minecraft:item / forge:raw_materials/platinum]": "2024-12-14 03:09:06 +0000"
+    },
+    "done": true
+  },
+  "littlelogistics:recipes/transportation/barge": {
+    "criteria": {
+      "has_item": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -896,6 +914,12 @@
   "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 20:31:00 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_yellow": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -1460,6 +1484,18 @@
   "xycraft_world:recipes/xycraft_world/compacting/xychorium_gem_red": {
     "criteria": {
       "has_xychorium_gem_red": "2024-12-14 03:00:47 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_routing": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -2544,6 +2580,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_red_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_1": {
     "criteria": {
       "has_spruce_plank": "2024-12-14 18:19:11 +0000"
@@ -2559,6 +2601,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/spruce_limited_barrel_3": {
     "criteria": {
       "has_spruce_plank": "2024-12-14 18:19:10 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_blue": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -2746,6 +2794,12 @@
   "farmersdelight:recipes/farmersdelight/diamond_knife": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-14 21:14:10 +0000"
     },
     "done": true
   },
@@ -3147,6 +3201,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_green_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "computercraft:recipes/computercraft/pocket_computer_advanced": {
     "criteria": {
       "has_apple": "2024-12-14 02:37:38 +0000"
@@ -3249,6 +3309,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 02:29:36 +0000"
@@ -3264,6 +3330,12 @@
   "cfm:recipes/cfm/brown_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -3414,6 +3486,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/ender_visor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/netcable_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -3894,6 +3972,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_blue": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -3990,6 +4074,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_routing": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/blue_cooler": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
@@ -4065,6 +4155,12 @@
   "cfm:recipes/cfm/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2024-12-14 18:19:11 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -4423,6 +4519,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_green": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/normal_lantern_lime": {
     "criteria": {
       "recipe_condition": "2024-12-14 18:42:42 +0000"
@@ -4607,6 +4709,12 @@
   "additionallanterns:recipes/additionallanterns/normal_lantern_red": {
     "criteria": {
       "recipe_condition": "2024-12-14 18:42:42 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_red_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -5261,6 +5369,12 @@
   "additionallanterns:recipes/additionallanterns/smooth_stone_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/spruce_barrel_from_vanilla_barrel": {
+    "criteria": {
+      "has_vanilla_barrel": "2024-12-14 21:14:10 +0000"
     },
     "done": true
   },
@@ -6411,6 +6525,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/netcable_blue_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/industrial_grade_metal": {
     "criteria": {
       "has_item": "2024-12-14 02:39:39 +0000"
@@ -7546,6 +7666,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_red": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -9589,6 +9715,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-14 21:14:10 +0000"
+    },
+    "done": true
+  },
   "mcwdoors:recipes/spruce": {
     "criteria": {
       "has_wood": "2024-12-14 20:16:24 +0000"
@@ -11094,6 +11226,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/connector_red": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/bamboo_door": {
     "criteria": {
       "has_bundle": "2024-12-14 02:22:25 +0000"
@@ -11491,6 +11629,12 @@
     },
     "done": true
   },
+  "xnet:recipes/xnet/advanced_connector_green_dye": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/grave_cage": {
     "criteria": {
       "has_coal": "2024-12-14 02:31:14 +0000"
@@ -11566,6 +11710,12 @@
   "aquaculture:recipes/tools/stone_fillet_knife": {
     "criteria": {
       "has_items": "2024-12-14 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/advanced_connector_green": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
@@ -12074,6 +12224,12 @@
     },
     "done": true
   },
+  "sophisticatedstorage:recipes/sophisticatedstorage/oak_chest_from_vanilla_chest": {
+    "criteria": {
+      "has_vanilla_chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/iron_to_iron_gear": {
     "criteria": {
       "has_item": "2024-12-14 02:39:39 +0000"
@@ -12499,6 +12655,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-14 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "xnet:recipes/xnet/connector_yellow": {
+    "criteria": {
+      "chest": "2024-12-14 21:14:01 +0000"
     },
     "done": true
   },
