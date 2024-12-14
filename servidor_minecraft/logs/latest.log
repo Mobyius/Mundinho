@@ -2961,3 +2961,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 20:45:06.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
 [14Dec2024 20:45:07.289] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
 [14Dec2024 20:45:07.303] [Server thread/INFO] [Jade/]: Syncing config to Mobyius (dbe9f4ad-46a8-3c03-ac4d-9593a341c380)
+[14Dec2024 21:38:53.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Honeyed Archer'/232732, l='ServerLevel[world]', x=-296.32, y=129.95, z=50.76] died: Honeyed Archer burned to death
