@@ -3086,3 +3086,10 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 20:15:24.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
 [14Dec2024 20:20:46.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
 [14Dec2024 20:20:47.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[14Dec2024 20:25:55.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[14Dec2024 20:25:56.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 20:28:46.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius fell out of the world
+[14Dec2024 20:28:46.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Killed Mobyius]
+[14Dec2024 20:28:46.995] [Server thread/INFO] [tombstone/]: The player Mobyius has successfully been saved
+[14Dec2024 20:28:49.154] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[14Dec2024 20:31:06.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
