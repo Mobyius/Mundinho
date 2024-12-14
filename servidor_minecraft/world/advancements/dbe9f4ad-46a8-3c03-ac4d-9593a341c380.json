@@ -1483,6 +1483,12 @@
     },
     "done": true
   },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-12-14 21:59:46 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_aspen_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
