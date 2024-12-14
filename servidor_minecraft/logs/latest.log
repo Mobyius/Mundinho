@@ -3046,3 +3046,18 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 19:07:27.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius lost connection: Disconnected
 [14Dec2024 19:07:27.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius left the game
 [14Dec2024 19:08:38.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 19:12:51.392] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fda3de0
+[14Dec2024 19:12:51.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mobyius[/172.30.231.113:64417] logged in with entity id 243856 at (-192.15152566388252, 208.19985774169976, 29.670791159637197)
+[14Dec2024 19:12:51.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mobyius
+[14Dec2024 19:12:51.467] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mobyius
+[14Dec2024 19:12:51.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mobyius
+[14Dec2024 19:12:51.468] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mobyius
+[14Dec2024 19:12:51.469] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mobyius
+[14Dec2024 19:12:51.471] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mobyius
+[14Dec2024 19:12:51.471] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mobyius
+[14Dec2024 19:12:51.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius joined the game
+[14Dec2024 19:12:51.755] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: Mobyius
+[14Dec2024 19:12:51.863] [Server thread/INFO] [Jade/]: Syncing config to Mobyius (dbe9f4ad-46a8-3c03-ac4d-9593a341c380)
+[14Dec2024 19:14:56.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 19:15:24.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[14Dec2024 19:15:57.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
