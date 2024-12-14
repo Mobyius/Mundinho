@@ -1738,6 +1738,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/alchemy_table/plant_oil": {
+    "criteria": {
+      "has_wheat_seeds": "2024-12-14 18:52:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/black_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
@@ -3674,6 +3680,12 @@
   "corail_woodcutter:recipes/from_byg_mangrove_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "rootsclassic:recipes/rootsclassic/runic_tablet": {
+    "criteria": {
+      "has_old_root": "2024-12-14 18:52:23 +0000"
     },
     "done": true
   },
