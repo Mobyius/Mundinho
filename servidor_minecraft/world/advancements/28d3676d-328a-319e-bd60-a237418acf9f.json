@@ -737,6 +737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/chest_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_desk_cabinet": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
@@ -2084,6 +2090,12 @@
   "littlelogistics:recipes/transportation/locomotive_route": {
     "criteria": {
       "has_item": "2024-12-14 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -4163,6 +4175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi_rajan": {
     "criteria": {
       "has_for_kivi_rajan": "2024-12-14 03:01:17 +0000"
@@ -4328,6 +4346,12 @@
   "rftoolsbuilder:recipes/rftoolsbuilder/vehicle_card": {
     "criteria": {
       "paper": "2024-12-14 18:04:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_button_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -4817,6 +4841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_pressure_plate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_light_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -5214,6 +5244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_chest_boat_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_green_r": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 02:47:54 +0000"
@@ -5349,6 +5385,12 @@
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 18:19:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -7513,6 +7555,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_planks_from_spruce_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 18:26:19 +0000"
@@ -7800,6 +7848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/crafting_table_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 02:47:54 +0000"
@@ -7839,6 +7893,12 @@
   "evilcraft:first_age": {
     "criteria": {
       "criteria_0": "2024-12-14 03:12:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/barrel_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -8602,6 +8662,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:31:29 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -9912,6 +9978,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
@@ -9951,6 +10023,12 @@
   "cfm:recipes/cfm/stripped_birch_kitchen_counter": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_stairs_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
@@ -10460,6 +10538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_fence_gate_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/omnidirectional_hopper": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -10655,6 +10739,12 @@
   "elementalcraft:recipes/elementalcraft/contained_crystal": {
     "criteria": {
       "has_inertcrystal": "2024-12-14 02:41:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_sign_from_dark_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-14 19:55:47 +0000"
     },
     "done": true
   },
