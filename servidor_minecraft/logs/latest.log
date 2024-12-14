@@ -2968,3 +2968,7 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 23:00:21.046] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [14Dec2024 23:00:55.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2027ms or 40 ticks behind
 [14Dec2024 23:09:41.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[14Dec2024 23:42:55.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[14Dec2024 23:43:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
+[14Dec2024 23:44:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Spectator Mode]
+[14Dec2024 23:45:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
