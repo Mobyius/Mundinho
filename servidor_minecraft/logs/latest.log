@@ -3077,3 +3077,8 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 19:57:43.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
 [14Dec2024 19:58:36.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 13000]
 [14Dec2024 19:58:44.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]
+[14Dec2024 20:02:55.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 20:03:14.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Sky of Beginning]
+[14Dec2024 20:04:21.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Luscious Surroundings]
+[14Dec2024 20:08:37.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[14Dec2024 20:08:45.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the time to 1000]

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2024-12-14 20:00:01 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-14 02:22:25 +0000"
@@ -326,6 +332,12 @@
   "xycraft_world:recipes/xycraft_world/shaped/kivi_bricks_cloud_red_r": {
     "criteria": {
       "has_kivi": "2024-12-14 03:01:17 +0000"
+    },
+    "done": true
+  },
+  "botania:challenge/root": {
+    "criteria": {
+      "flower": "2024-12-14 20:03:14 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "botania:main/root": {
+    "criteria": {
+      "flower": "2024-12-14 20:03:14 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/metal/metal_warning_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:39:40 +0000"
@@ -854,6 +872,12 @@
   "additionallanterns:recipes/additionallanterns/diorite_chain": {
     "criteria": {
       "recipe_condition": "2024-12-14 17:42:45 +0000"
+    },
+    "done": true
+  },
+  "naturesaura:positive_imbalance": {
+    "criteria": {
+      "triggered_in_code": "2024-12-14 20:04:21 +0000"
     },
     "done": true
   },
@@ -3075,6 +3099,12 @@
     },
     "done": true
   },
+  "minecolonies:recipes/decorations/doublegrass": {
+    "criteria": {
+      "has_grass": "2024-12-14 20:00:17 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-14 17:42:45 +0000"
@@ -3126,6 +3156,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/item_life_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-14 19:59:59 +0000"
     },
     "done": true
   },
@@ -3571,6 +3607,12 @@
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2024-12-14 20:03:15 +0000"
     },
     "done": true
   },
@@ -4334,6 +4376,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/white_shiny_flower": {
+    "criteria": {
+      "has_item": "2024-12-14 20:03:14 +0000"
     },
     "done": true
   },
@@ -7465,6 +7513,12 @@
     },
     "done": true
   },
+  "botania:main/flower_pickup_lexicon": {
+    "criteria": {
+      "flower": "2024-12-14 20:03:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_spruce_table": {
     "criteria": {
       "has_log": "2024-12-14 18:19:44 +0000"
@@ -8100,6 +8154,12 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/runic_tablet": {
+    "criteria": {
+      "has_old_root": "2024-12-14 20:03:32 +0000"
+    },
+    "done": true
+  },
   "sophisticatedstorage:recipes/sophisticatedstorage/birch_chest": {
     "criteria": {
       "has_birch_plank": "2024-12-14 02:54:35 +0000"
@@ -8223,6 +8283,12 @@
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/petal_white": {
+    "criteria": {
+      "has_item": "2024-12-14 20:03:14 +0000"
     },
     "done": true
   },
@@ -10177,6 +10243,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/flower_bag": {
+    "criteria": {
+      "has_item": "2024-12-14 20:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:41:43 +0000"
@@ -10715,6 +10787,12 @@
   "cfm:recipes/cfm/stripped_jungle_mail_box": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "botania:main/flower_pickup": {
+    "criteria": {
+      "flower": "2024-12-14 20:03:14 +0000"
     },
     "done": true
   },
