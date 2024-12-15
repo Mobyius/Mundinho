@@ -11,3 +11,4 @@
 [15Dec2024 00:05:23.669] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
 [15Dec2024 00:05:23.685] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
 [15Dec2024 00:08:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
+[15Dec2024 00:19:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Local Librarian]

@@ -6225,6 +6225,12 @@
     },
     "done": true
   },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2024-12-15 00:19:55 +0000"
+    },
+    "done": true
+  },
   "wirelesschargers:recipes/wirelesschargers/basic_wireless_block_charger": {
     "criteria": {
       "recipe_condition": "2024-12-14 17:58:00 +0000"
