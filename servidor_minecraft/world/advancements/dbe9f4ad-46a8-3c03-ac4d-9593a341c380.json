@@ -7097,16 +7097,16 @@
     },
     "done": true
   },
-  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
-    "criteria": {
-      "recipe_condition1": "2024-12-14 23:28:20 +0000"
-    },
-    "done": true
-  },
   "connectedglass:recipes/connectedglass/clear_glass1": {
     "criteria": {
       "has_the_recipe": "2024-12-14 23:28:18 +0000",
       "recipe_condition": "2024-12-14 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/borderless_glass_cyan_pane2": {
+    "criteria": {
+      "recipe_condition1": "2024-12-14 23:28:20 +0000"
     },
     "done": true
   },
