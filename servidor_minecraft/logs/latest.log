@@ -2972,3 +2972,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [14Dec2024 23:43:12.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
 [14Dec2024 23:44:25.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Spectator Mode]
 [14Dec2024 23:45:29.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set own game mode to Creative Mode]
+[14Dec2024 23:56:04.954] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Disconnected
+[14Dec2024 23:56:04.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr left the game
