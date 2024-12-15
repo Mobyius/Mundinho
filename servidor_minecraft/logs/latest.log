@@ -1,14 +1,85 @@
-[15Dec2024 00:05:22.634] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@16f1c77c
-[15Dec2024 00:05:22.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:55278] logged in with entity id 1033820 at (-238.53667820982216, 133.95581465445795, 102.07873778695593)
-[15Dec2024 00:05:22.846] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
-[15Dec2024 00:05:22.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
-[15Dec2024 00:05:22.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
-[15Dec2024 00:05:22.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
-[15Dec2024 00:05:22.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
-[15Dec2024 00:05:22.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
-[15Dec2024 00:05:22.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
-[15Dec2024 00:05:23.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
-[15Dec2024 00:05:23.669] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
-[15Dec2024 00:05:23.685] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
-[15Dec2024 00:08:23.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [olyverr: Set the weather to clear]
-[15Dec2024 00:19:55.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Local Librarian]
+[15Dec2024 00:31:08.625] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[15Dec2024 00:31:08.628] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[15Dec2024 00:31:15.334] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Mundinho/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[15Dec2024 00:31:16.909] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 00:31:16.911] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 00:31:16.912] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 00:31:16.913] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Mundinho/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[15Dec2024 00:31:17.856] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[15Dec2024 00:31:17.859] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: resourcefullib. Using Mod File: /workspaces/Mundinho/servidor_minecraft/mods/resourcefullib-forge-1.19.2-1.1.24.jar
+[15Dec2024 00:31:17.859] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select a dependency jar for JarJar which was passed in as source: botarium. Using Mod File: /workspaces/Mundinho/servidor_minecraft/mods/botarium-forge-1.19.2-1.8.2.jar
+[15Dec2024 00:31:17.859] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 22 dependencies adding them to mods collection
+[15Dec2024 00:31:31.954] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[15Dec2024 00:31:32.970] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.endertanks.mixins.MixinConnector]
+[15Dec2024 00:31:32.973] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [shetiphian.core.mixins.MixinConnector]
+[15Dec2024 00:31:32.975] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[15Dec2024 00:31:32.979] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.aizistral.nochatreports.MixinConnector]
+[15Dec2024 00:31:32.980] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[15Dec2024 00:31:33.116] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.10.1+mc1.19.2: 77 options available, 0 override(s) found
+[15Dec2024 00:31:33.117] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[15Dec2024 00:31:33.192] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[15Dec2024 00:31:33.230] [main/WARN] [mixin/]: Reference map 'universalgrid.refmap.json' for universalgrid.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:33.815] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/vanilla.xml
+[15Dec2024 00:31:33.822] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/sophisticated_core.xml
+[15Dec2024 00:31:33.824] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/refinedstorage.xml
+[15Dec2024 00:31:33.827] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/mekanism.xml
+[15Dec2024 00:31:33.830] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ironfurnaces.xml
+[15Dec2024 00:31:33.831] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/ic2.xml
+[15Dec2024 00:31:33.834] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/computercraft.xml
+[15Dec2024 00:31:33.837] [main/INFO] [portb.transformerlib.TransformerLib/]: Loaded transformer transformers/assortedstorage.xml
+[15Dec2024 00:31:33.876] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:33.878] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:33.946] [main/WARN] [mixin/]: Reference map '${refmap_target}refmap.json' for corgilib.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:33.959] [main/WARN] [mixin/]: Reference map 'myrtrees-common-refmap.json' for myrtrees-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:34.219] [main/WARN] [mixin/]: Reference map 'naturalist-forge-forge-refmap.json' for naturalist.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:34.297] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[15Dec2024 00:31:34.647] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Dec2024 00:31:34.661] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Dec2024 00:31:34.947] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:34.947] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/WorldSelectionList$WorldListEntry for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:34.948] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.WorldSelectionList$WorldListEntry was not found modernfix-common.mixins.json:bugfix.world_screen_skipped.WorldSelectionListMixin
+[15Dec2024 00:31:35.055] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/worldselection/CreateWorldScreen for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:35.056] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/worldselection/CreateWorldScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/worldselection/CreateWorldScreen for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:35.056] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.worldselection.CreateWorldScreen was not found modernfix-forge.mixins.json:bugfix.extra_experimental_screen.CreateWorldScreenMixin
+[15Dec2024 00:31:35.276] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/inventory/AnvilMenu
+[15Dec2024 00:31:35.303] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Dec2024 00:31:35.304] [main/INFO] [net.minecraftforge.coremod.CoreMod.placebo/COREMODLOG]: Patching IForgeItemStack#getEnchantmentLevel
+[15Dec2024 00:31:35.321] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite.content.UpgradedNetheriteCrossbow)
+[15Dec2024 00:31:35.323] [main/WARN] [mixin/]: Error loading class: com/rolfmao/upgradednetherite_ultimate/content/UpgradedNetheriteCrossbow (java.lang.ClassNotFoundException: com.rolfmao.upgradednetherite_ultimate.content.UpgradedNetheriteCrossbow)
+[15Dec2024 00:31:35.335] [main/INFO] [portb.biggerstacks.TransformerEngine/]: ae2 is installed, applying patches
+[15Dec2024 00:31:35.336] [main/INFO] [portb.biggerstacks.TransformerEngine/]: ae2 is installed, applying patches
+[15Dec2024 00:31:35.337] [main/INFO] [portb.biggerstacks.TransformerEngine/]: ae2 is installed, applying patches
+[15Dec2024 00:31:35.339] [main/INFO] [portb.biggerstacks.TransformerEngine/]: modularrouters is installed, applying patches
+[15Dec2024 00:31:35.340] [main/INFO] [portb.biggerstacks.TransformerEngine/]: modularrouters is installed, applying patches
+[15Dec2024 00:31:35.341] [main/INFO] [portb.biggerstacks.TransformerEngine/]: modularrouters is installed, applying patches
+[15Dec2024 00:31:35.345] [main/INFO] [portb.biggerstacks.TransformerEngine/]: refinedstorage is installed, applying patches
+[15Dec2024 00:31:35.969] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Patching FishingHook#catchingFish
+[15Dec2024 00:31:36.035] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:36.035] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/gui/screens/inventory/AbstractContainerScreen (java.lang.RuntimeException: Attempted to load class net/minecraft/client/gui/screens/inventory/AbstractContainerScreen for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:36.035] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.gui.screens.inventory.AbstractContainerScreen was not found findme-common.mixins.json:MixinSlotRenderer
+[15Dec2024 00:31:36.041] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:36.041] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/particle/ParticleEngine (java.lang.RuntimeException: Attempted to load class net/minecraft/client/particle/ParticleEngine for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:36.041] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.particle.ParticleEngine was not found findme-common.mixins.json:ParticleEngineAccessor
+[15Dec2024 00:31:36.445] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:36.446] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/player/LocalPlayer (java.lang.RuntimeException: Attempted to load class net/minecraft/client/player/LocalPlayer for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:36.446] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.player.LocalPlayer was not found mna.mixins.json:LocalPlayerElytra
+[15Dec2024 00:31:36.457] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:36.458] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/ClientPacketListener (java.lang.RuntimeException: Attempted to load class net/minecraft/client/multiplayer/ClientPacketListener for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:36.459] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.ClientPacketListener was not found mna.mixins.json:ClientPacketListenerMixin
+[15Dec2024 00:31:36.727] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/voicechat/plugins/impl/audiochannel/EntityAudioChannelImpl (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.plugins.impl.audiochannel.EntityAudioChannelImpl)
+[15Dec2024 00:31:36.728] [main/WARN] [mixin/]: @Mixin target de.maxhenkel.voicechat.plugins.impl.audiochannel.EntityAudioChannelImpl was not found railways-common.mixins.json:compat.voicechat.EntityAudioChannelImplMixin
+[15Dec2024 00:31:36.730] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/voicechat/voice/server/Server (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.voice.server.Server)
+[15Dec2024 00:31:36.730] [main/WARN] [mixin/]: @Mixin target de.maxhenkel.voicechat.voice.server.Server was not found railways-common.mixins.json:compat.voicechat.ServerMixin
+[15Dec2024 00:31:36.731] [main/WARN] [mixin/]: Error loading class: de/maxhenkel/voicechat/voice/server/ServerWorldUtils (java.lang.ClassNotFoundException: de.maxhenkel.voicechat.voice.server.ServerWorldUtils)
+[15Dec2024 00:31:36.732] [main/WARN] [mixin/]: @Mixin target de.maxhenkel.voicechat.voice.server.ServerWorldUtils was not found railways-common.mixins.json:compat.voicechat.ServerWorldUtilsMixin
+[15Dec2024 00:31:36.821] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/entity/PhantomRenderer (java.lang.ClassNotFoundException: net.minecraft.client.renderer.entity.PhantomRenderer)
+[15Dec2024 00:31:36.821] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.entity.PhantomRenderer was not found mixins.deeperdarker.json:PhantomRendererMixin
+[15Dec2024 00:31:37.038] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[15Dec2024 00:31:37.038] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTreasureOnly() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[15Dec2024 00:31:37.038] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isTradeable() in net/minecraft/world/entity/npc/VillagerTrades$EnchantBookForEmeralds
+[15Dec2024 00:31:37.057] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 2 calls to Enchantment#getMaxLevel() in net/minecraft/world/item/EnchantedBookItem
+[15Dec2024 00:31:37.083] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#getMaxLevel() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[15Dec2024 00:31:37.084] [main/INFO] [net.minecraftforge.coremod.CoreMod.apotheosis/COREMODLOG]: Replaced 1 calls to Enchantment#isDiscoverable() in net/minecraft/world/level/storage/loot/functions/EnchantRandomlyFunction
+[15Dec2024 00:31:37.404] [main/ERROR] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER
+[15Dec2024 00:31:37.404] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/TextureAtlas (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER)
+[15Dec2024 00:31:37.404] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.TextureAtlas was not found fusion.mixins.json:modernfix.TextureAtlasMixinModernFix
