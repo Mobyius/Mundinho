@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "aquaculture:recipes/aquaculture/tackle_box": {
+    "criteria": {
+      "has_items": "2024-12-16 02:59:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-14 18:20:47 +0000"
@@ -518,6 +524,12 @@
   "mcwtrpdoors:recipes/jungle_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-14 20:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-16 02:59:59 +0000"
     },
     "done": true
   },
@@ -1337,6 +1349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-16 02:59:59 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/wall_lamp_inverted_gray": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -2007,6 +2025,12 @@
   "alchemistry:recipes/dissolver/polished_granite": {
     "criteria": {
       "has_the_recipe": "2024-12-14 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2024-12-16 02:58:58 +0000"
     },
     "done": true
   },
@@ -5192,6 +5216,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/decorations/separating/glowstone_dust": {
+    "criteria": {
+      "has_item": "2024-12-16 02:59:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_dark_oak_blinds": {
     "criteria": {
       "has_log": "2024-12-16 02:11:51 +0000"
@@ -6098,6 +6128,12 @@
       "has_item": "2024-12-14 03:12:56 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2024-12-16 03:01:27 +0000"
+    },
+    "done": false
   },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
@@ -7245,6 +7281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-16 02:59:59 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/birch/birch_tropical_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:27:39 +0000"
@@ -7950,6 +7992,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-16 02:59:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_top": "2024-12-16 01:56:40 +0000"
@@ -8025,6 +8073,12 @@
   "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-14 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "mcwlights:recipes/sea_lantern_slab": {
+    "criteria": {
+      "has_wood": "2024-12-16 02:57:00 +0000"
     },
     "done": true
   },
@@ -9485,6 +9539,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/separating/silicon_from_sand": {
+    "criteria": {
+      "has_item": "2024-12-16 02:58:58 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_birch_cabinet": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
@@ -10194,6 +10254,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-16 02:59:59 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/building_blocks/stonecutting/tinted_glass": {
     "criteria": {
       "has_for_tinted_glass": "2024-12-14 21:00:10 +0000"
@@ -10519,6 +10585,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/sandstone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 02:58:58 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/twilightforest/wood/dark_oak_banister": {
     "criteria": {
       "has_item": "2024-12-14 19:55:47 +0000"
@@ -10763,6 +10835,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-14 18:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-12-16 02:58:58 +0000"
     },
     "done": true
   },
@@ -11554,6 +11632,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate_slab": "2024-12-16 02:58:50 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-14 02:39:39 +0000"
@@ -11752,6 +11836,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 20:22:57 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/concrete": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:58:58 +0000"
     },
     "done": true
   },
@@ -13164,6 +13254,12 @@
   "additionallanterns:recipes/additionallanterns/blackstone_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chiseled_deepslate": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 02:58:50 +0000"
     },
     "done": true
   },
