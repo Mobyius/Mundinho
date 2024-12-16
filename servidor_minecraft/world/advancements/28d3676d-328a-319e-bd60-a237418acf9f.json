@@ -1151,6 +1151,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_birch_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-14 18:19:11 +0000"
@@ -3929,6 +3935,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/light_gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-16 02:43:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:31:29 +0000"
@@ -4020,6 +4032,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
@@ -4059,6 +4077,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/shepherd_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
@@ -4542,6 +4566,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/anvil_cart": {
+    "criteria": {
+      "criterion0": "2024-12-16 02:45:54 +0000"
+    },
+    "done": true
+  },
   "xycraft_override:recipes/xycraft_override/shaped/stone_bricks_dark": {
     "criteria": {
       "has_stone_bricks": "2024-12-14 02:47:54 +0000"
@@ -4816,6 +4846,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2024-12-14 02:49:48 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:enchanting/enchanter": {
+    "criteria": {
+      "enchanting_table": "2024-12-16 02:46:36 +0000"
     },
     "done": true
   },
@@ -5399,6 +5435,12 @@
   "cfm:recipes/cfm/purple_picket_gate": {
     "criteria": {
       "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/mangrove_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
@@ -7149,6 +7191,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/charcoal": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:27:39 +0000"
@@ -8034,6 +8082,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_acacia_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
   "mcwbridges:recipes/rope_dark_oak_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 20:22:57 +0000"
@@ -8200,6 +8254,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/volume_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
@@ -9449,9 +9509,21 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_axe": {
     "criteria": {
       "has_sticks": "2024-12-14 02:27:40 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/gray_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
@@ -9789,6 +9861,12 @@
   "minecraft:recipes/redstone/dropper": {
     "criteria": {
       "has_redstone": "2024-12-14 03:10:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/warped_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
@@ -11178,6 +11256,12 @@
   "cfm:recipes/cfm/fridge_dark": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/crimson_kitchen_sink_dark": {
+    "criteria": {
+      "has_top": "2024-12-16 02:43:30 +0000"
     },
     "done": true
   },
