@@ -6015,6 +6015,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/red_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-16 02:07:13 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/raw_materials/tin_to_ingot": {
     "criteria": {
       "has_item": "2024-12-14 02:32:31 +0000"
@@ -7242,6 +7248,12 @@
   "bambooeverything:recipes/dry_bamboo_trapdoor": {
     "criteria": {
       "has_dry_bundle": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-12-16 02:07:24 +0000"
     },
     "done": true
   },
@@ -9072,6 +9084,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/blue_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-16 02:07:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/white_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
@@ -10493,6 +10511,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-12-14 18:45:34 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/purple_picket_fence": {
+    "criteria": {
+      "has_concrete": "2024-12-16 02:07:16 +0000"
     },
     "done": true
   },
