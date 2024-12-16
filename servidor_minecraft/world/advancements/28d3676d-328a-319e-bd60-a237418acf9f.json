@@ -539,6 +539,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_chair": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/iron_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2024-12-14 02:22:25 +0000"
@@ -836,6 +842,12 @@
   "immersivepetroleum:recipes/building_blocks/weathered_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:22:24 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/acacia/dark_oak_bark_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -1920,6 +1932,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_park_bench": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-14 18:40:05 +0000"
@@ -1965,6 +1983,12 @@
   "littlelogistics:recipes/transportation/car_dock_rail": {
     "criteria": {
       "has_item": "2024-12-14 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -2736,6 +2760,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/connector_blue": {
     "criteria": {
       "chest": "2024-12-14 21:14:01 +0000"
@@ -2986,6 +3016,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_glass_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -3435,6 +3471,12 @@
     },
     "done": true
   },
+  "mcwdoors:recipes/dark_oak": {
+    "criteria": {
+      "has_wood": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/shaped/ingots/gold_to_gold_rod": {
     "criteria": {
       "has_item": "2024-12-14 02:32:00 +0000"
@@ -3609,6 +3651,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barrel_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_bread": "2024-12-14 02:37:11 +0000"
@@ -3654,6 +3702,12 @@
   "vampirism:main/root": {
     "criteria": {
       "main": "2024-12-14 02:40:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_counter": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -3897,6 +3951,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-14 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_table": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -4215,6 +4275,12 @@
   "pneumaticcraft:recipes/pneumaticcraft/flippers_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 03:11:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:51 +0000"
     },
     "done": true
   },
@@ -4808,6 +4874,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_classic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/vampire/chandelier": {
     "criteria": {
       "has_string": "2024-12-14 02:40:21 +0000"
@@ -4946,6 +5018,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2024-12-16 02:11:51 +0000"
+    },
+    "done": true
+  },
   "additionallanterns:recipes/additionallanterns/normal_lantern_red": {
     "criteria": {
       "recipe_condition": "2024-12-14 18:42:42 +0000"
@@ -4979,6 +5057,12 @@
   "cfm:recipes/cfm/birch_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-14 02:54:35 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_ranch_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -5051,6 +5135,18 @@
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_trapdoor_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 19:55:47 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_cottage_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:51 +0000"
     },
     "done": true
   },
@@ -6423,6 +6519,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_mystic_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/spruce/spruce_sign_from_spruce_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 18:19:11 +0000"
@@ -6630,6 +6732,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-14 20:30:21 +0000"
+    },
+    "done": true
+  },
+  "mcwtrpdoors:recipes/print_four_panel": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -6873,6 +6981,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_beach_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
@@ -6957,6 +7071,12 @@
     },
     "done": true
   },
+  "mcwroofs:recipes/dark_oak": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "xycraft_world:recipes/xycraft_world/stonecutting/kivi_tiles": {
     "criteria": {
       "has_for_kivi_tiles": "2024-12-14 03:01:17 +0000"
@@ -7002,6 +7122,12 @@
   "minecraft:recipes/transportation/detector_rail": {
     "criteria": {
       "has_rail": "2024-12-14 02:38:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -7308,6 +7434,12 @@
   "vampirism:recipes/vampirism/general/totem_base": {
     "criteria": {
       "has_obsidian": "2024-12-14 17:58:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_coffee_table": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -7908,6 +8040,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_stripped_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 02:11:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-14 18:19:11 +0000"
@@ -8494,6 +8632,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_tropical_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2024-12-14 02:27:39 +0000"
@@ -8988,6 +9132,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/dark_oak/dark_oak_door_from_dark_oak_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 19:55:47 +0000"
@@ -9165,6 +9315,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:51 +0000"
     },
     "done": true
   },
@@ -10629,6 +10785,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/dark_oak_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "sebastrnlib:grant_book_on_first_join": {
     "criteria": {
       "tick": "2024-12-14 02:22:25 +0000"
@@ -10857,6 +11019,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barred_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-14 17:42:45 +0000"
@@ -11031,6 +11199,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_swamp_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/mangrove_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:39:27 +0000"
@@ -11125,6 +11299,18 @@
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_cabinet": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dark_oak_blinds": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -11321,6 +11507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-14 18:20:47 +0000"
@@ -11425,6 +11617,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_barn_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/chile_pepper_seed": {
     "criteria": {
       "has_chile_pepper": "2024-12-14 18:32:01 +0000"
@@ -11452,6 +11650,12 @@
   "mcwbridges:recipes/dark_oak_rail_bridge": {
     "criteria": {
       "has_planks": "2024-12-14 20:22:57 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_crate": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
@@ -12074,6 +12278,12 @@
     },
     "done": true
   },
+  "mcwtrpdoors:recipes/dark_oak/dark_oak_paper_trapdoor": {
+    "criteria": {
+      "has_logs": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "occultism:occultism/root": {
     "criteria": {
       "occultism_present": "2024-12-14 02:22:25 +0000"
@@ -12176,6 +12386,12 @@
     },
     "done": true
   },
+  "cfm:recipes/cfm/dark_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2024-12-16 02:11:43 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/reinforced_brick_pillar": {
     "criteria": {
       "has_ingot_iron_compressed": "2024-12-14 02:37:15 +0000"
@@ -12263,6 +12479,12 @@
   "aquaculture:recipes/misc/red_mushroom_from_fish": {
     "criteria": {
       "has_items": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/stripped_dark_oak_desk": {
+    "criteria": {
+      "has_planks": "2024-12-16 02:11:43 +0000"
     },
     "done": true
   },
