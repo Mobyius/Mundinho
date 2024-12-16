@@ -467,6 +467,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-14 02:40:41 +0000"
@@ -863,6 +869,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-14 03:08:19 +0000"
@@ -1127,6 +1139,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/pepperoni": {
     "criteria": {
       "has_pepper": "2024-12-14 18:32:01 +0000"
@@ -1148,6 +1166,12 @@
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:25 +0000"
     },
     "done": true
   },
@@ -2088,6 +2112,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge": {
+    "criteria": {
+      "has_planks": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 21:00:23 +0000"
@@ -2157,6 +2187,12 @@
   "cfm:recipes/cfm/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2024-12-14 02:27:39 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/deepslate_tile_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -4182,6 +4218,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_blue_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/general/vampire_rack": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -4215,6 +4257,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-14 02:40:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -4365,6 +4413,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:41:43 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -6255,6 +6309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-14 18:19:11 +0000"
@@ -6450,6 +6510,12 @@
   "additionallanterns:recipes/additionallanterns/granite_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:31:20 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_dark_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -6753,6 +6819,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:25 +0000"
+    },
+    "done": true
+  },
   "xnet:recipes/xnet/netcable_green": {
     "criteria": {
       "nugget": "2024-12-14 17:55:34 +0000"
@@ -7025,6 +7097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mud_brick_slab": {
     "criteria": {
       "has_mud_bricks": "2024-12-14 18:52:47 +0000"
@@ -7095,6 +7173,12 @@
   "mcwtrpdoors:recipes/dark_oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-14 20:22:57 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_red_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -7984,6 +8068,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/silver_ingot_from_blasting_werewolves_raw_silver": {
     "criteria": {
       "has_raw_silver": "2024-12-14 02:41:22 +0000"
@@ -7993,6 +8083,12 @@
   "create:recipes/create.palettes/cut_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 17:57:14 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_light": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -9684,9 +9780,21 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -10717,6 +10825,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/jungle_limited_barrel_4": {
     "criteria": {
       "has_jungle_plank": "2024-12-14 20:30:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
@@ -12009,6 +12123,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/deepslate_tile_bridge_pier": {
+    "criteria": {
+      "has_planks": "2024-12-16 01:47:26 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_kitchen_sink_light": {
     "criteria": {
       "has_bottom": "2024-12-14 19:08:14 +0000"
@@ -12500,6 +12620,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/deepslate_tiles_green_r": {
+    "criteria": {
+      "has_deepslate_tiles": "2024-12-16 01:47:26 +0000"
     },
     "done": true
   },
