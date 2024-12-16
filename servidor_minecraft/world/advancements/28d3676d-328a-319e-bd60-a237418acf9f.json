@@ -2466,6 +2466,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2024-12-16 02:24:42 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/air_compressor": {
     "criteria": {
       "has_pressure_tube": "2024-12-14 17:54:57 +0000"
@@ -3306,6 +3312,12 @@
   "minecraft:recipes/woodcutting/jungle/barrel_from_jungle_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 20:31:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2024-12-16 02:25:33 +0000"
     },
     "done": true
   },
@@ -8611,6 +8623,12 @@
   "botania:recipes/botania/manasteel_shovel": {
     "criteria": {
       "has_item": "2024-12-14 02:59:24 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/sophisticatedstorage/controller": {
+    "criteria": {
+      "has_base_tier_wooden_storage": "2024-12-16 02:25:33 +0000"
     },
     "done": true
   },
