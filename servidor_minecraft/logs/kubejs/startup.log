@@ -1,38 +1,38 @@
-[00:32:04] [INIT] KubeJS 1902.6.2-build.45; MC 1902 forge
-[00:32:04] [INIT] Loaded plugins:
-[00:32:04] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[00:32:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[00:32:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[00:32:04] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[00:32:04] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
-[00:32:04] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[00:32:04] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[00:32:05] [INFO] tool_tiers.js#1: Loaded Java class 'net.minecraftforge.common.TierSortingRegistry'
-[00:32:05] [INFO] tool_tiers.js#2: Loaded Java class 'net.minecraft.world.item.Tiers'
-[00:32:05] [INFO] tool_tiers.js#5: Loaded Java class 'vazkii.botania.api.BotaniaAPI'
-[00:32:05] [INFO] tool_tiers.js#6: Loaded Java class 'de.melanx.aiotbotania.items.ItemTiers'
-[00:32:05] [INFO] tool_tiers.js#8: Loaded Java class 'appeng.items.tools.fluix.FluixToolType'
-[00:32:05] [INFO] tool_tiers.js#9: Loaded Java class 'appeng.items.tools.quartz.QuartzToolType'
-[00:32:05] [INFO] tool_tiers.js#11: Loaded Java class 'com.legacy.blue_skies.items.util.SkiesItemTier'
-[00:32:05] [INFO] tool_tiers.js#13: Loaded Java class 'com.blakebr0.mysticalagriculture.lib.ModItemTier'
-[00:32:05] [INFO] tool_tiers.js#15: Loaded Java class 'de.ellpeck.naturesaura.reg.ModItemTier'
-[00:32:05] [INFO] tool_tiers.js#17: Loaded Java class 'com.klikli_dev.occultism.api.common.misc.OccultismItemTier'
-[00:32:05] [INFO] tool_tiers.js#19: Loaded Java class 'me.codexadrian.spirit.items.SoulMetalMaterial'
-[00:32:05] [INFO] tool_tiers.js#21: Loaded Java class 'blusunrize.immersiveengineering.api.Lib'
-[00:32:05] [INFO] tool_tiers.js#23: Loaded Java class 'com.teammetallurgy.aquaculture.api.AquacultureAPI'
-[00:32:05] [INFO] tool_tiers.js#27: Loaded Java class 'potionstudios.byg.common.item.BYGTier'
-[00:32:05] [INFO] tool_tiers.js#29: Loaded Java class 'cofh.redstonearsenal.init.RSAItems'
-[00:32:05] [INFO] Loaded script startup_scripts:tool_tiers.js in 0.2 s
-[00:32:05] [INFO] mysticalagriculture.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
-[00:32:05] [INFO] Loaded script startup_scripts:mysticalagriculture.js in 0.023 s
-[00:32:05] [INFO] Loaded script startup_scripts:observeMekanism.js in 0.003 s
-[00:32:05] [INFO] Loaded script startup_scripts:botanyPots.js in 0.001 s
-[00:32:05] [INFO] Loaded script startup_scripts:settings.js in 0.016 s
-[00:32:05] [INFO] farmingForBlockheads.js#7: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[00:32:05] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.019 s
-[00:32:05] [INFO] Loaded script startup_scripts:worldgen.js in 0.029 s
-[00:32:05] [INFO] Loaded script startup_scripts:custom_additions.js in 0.0 s
-[00:32:05] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
-[00:32:05] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
-[00:32:05] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.007 s
-[00:32:05] [INFO] Loaded 9/9 KubeJS startup scripts in 0.704 s
+[01:35:22] [INIT] KubeJS 1902.6.2-build.45; MC 1902 forge
+[01:35:22] [INIT] Loaded plugins:
+[01:35:22] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[01:35:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[01:35:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[01:35:22] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[01:35:22] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
+[01:35:22] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[01:35:22] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[01:35:23] [INFO] tool_tiers.js#1: Loaded Java class 'net.minecraftforge.common.TierSortingRegistry'
+[01:35:23] [INFO] tool_tiers.js#2: Loaded Java class 'net.minecraft.world.item.Tiers'
+[01:35:23] [INFO] tool_tiers.js#5: Loaded Java class 'vazkii.botania.api.BotaniaAPI'
+[01:35:23] [INFO] tool_tiers.js#6: Loaded Java class 'de.melanx.aiotbotania.items.ItemTiers'
+[01:35:23] [INFO] tool_tiers.js#8: Loaded Java class 'appeng.items.tools.fluix.FluixToolType'
+[01:35:23] [INFO] tool_tiers.js#9: Loaded Java class 'appeng.items.tools.quartz.QuartzToolType'
+[01:35:23] [INFO] tool_tiers.js#11: Loaded Java class 'com.legacy.blue_skies.items.util.SkiesItemTier'
+[01:35:23] [INFO] tool_tiers.js#13: Loaded Java class 'com.blakebr0.mysticalagriculture.lib.ModItemTier'
+[01:35:23] [INFO] tool_tiers.js#15: Loaded Java class 'de.ellpeck.naturesaura.reg.ModItemTier'
+[01:35:23] [INFO] tool_tiers.js#17: Loaded Java class 'com.klikli_dev.occultism.api.common.misc.OccultismItemTier'
+[01:35:23] [INFO] tool_tiers.js#19: Loaded Java class 'me.codexadrian.spirit.items.SoulMetalMaterial'
+[01:35:23] [INFO] tool_tiers.js#21: Loaded Java class 'blusunrize.immersiveengineering.api.Lib'
+[01:35:23] [INFO] tool_tiers.js#23: Loaded Java class 'com.teammetallurgy.aquaculture.api.AquacultureAPI'
+[01:35:23] [INFO] tool_tiers.js#27: Loaded Java class 'potionstudios.byg.common.item.BYGTier'
+[01:35:23] [INFO] tool_tiers.js#29: Loaded Java class 'cofh.redstonearsenal.init.RSAItems'
+[01:35:23] [INFO] Loaded script startup_scripts:tool_tiers.js in 0.191 s
+[01:35:23] [INFO] mysticalagriculture.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.api.MysticalAgricultureAPI'
+[01:35:23] [INFO] Loaded script startup_scripts:mysticalagriculture.js in 0.008 s
+[01:35:23] [INFO] Loaded script startup_scripts:observeMekanism.js in 0.001 s
+[01:35:23] [INFO] Loaded script startup_scripts:botanyPots.js in 0.0 s
+[01:35:23] [INFO] Loaded script startup_scripts:settings.js in 0.046 s
+[01:35:23] [INFO] farmingForBlockheads.js#7: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[01:35:23] [INFO] Loaded script startup_scripts:farmingForBlockheads.js in 0.006 s
+[01:35:23] [INFO] Loaded script startup_scripts:worldgen.js in 0.019 s
+[01:35:23] [INFO] Loaded script startup_scripts:custom_additions.js in 0.0 s
+[01:35:23] [INFO] mekanismStartup.js#18: Loaded Java class 'mekanism.api.chemical.slurry.Slurry'
+[01:35:23] [INFO] mekanismStartup.js#19: Loaded Java class 'mekanism.api.chemical.slurry.SlurryBuilder'
+[01:35:23] [INFO] Loaded script startup_scripts:mekanismStartup.js in 0.008 s
+[01:35:23] [INFO] Loaded 9/9 KubeJS startup scripts in 0.675 s
