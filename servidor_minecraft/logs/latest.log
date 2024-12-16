@@ -2931,3 +2931,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [16Dec2024 02:07:24.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Hot Stuff]
 [16Dec2024 02:46:36.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [The Secrets of Enchanting]
 [16Dec2024 03:02:33.718] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[16Dec2024 03:11:04.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has completed the challenge [Cover Me in Debris]

@@ -869,6 +869,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_slab": {
     "criteria": {
       "has_dry_bundle": "2024-12-14 02:22:25 +0000"
@@ -1067,6 +1073,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -1241,6 +1253,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:22:25 +0000"
@@ -1397,6 +1415,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2024-12-14 02:22:25 +0000"
@@ -1442,6 +1466,12 @@
   "aquaculture:recipes/decorations/birch_fish_mount": {
     "criteria": {
       "has_items": "2024-12-14 02:22:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-16 03:10:45 +0000"
     },
     "done": true
   },
@@ -1760,6 +1790,12 @@
   "cfm:recipes/cfm/trampoline": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
@@ -2589,6 +2625,12 @@
   "ftbic:recipes/misc/macerating/bone_meal": {
     "criteria": {
       "has_item": "2024-12-14 02:58:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2024-12-16 03:10:45 +0000"
     },
     "done": true
   },
@@ -3797,6 +3839,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-16 03:11:01 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/decorations/doublegrass": {
     "criteria": {
       "has_grass": "2024-12-14 20:00:17 +0000"
@@ -4395,6 +4443,12 @@
   "xnet:recipes/xnet/advanced_connector_routing": {
     "criteria": {
       "chest": "2024-12-14 21:14:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-16 03:11:02 +0000"
     },
     "done": true
   },
@@ -5093,6 +5147,12 @@
   "cfm:recipes/cfm/stripped_dark_oak_kitchen_sink_dark": {
     "criteria": {
       "has_bottom": "2024-12-16 02:11:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_grill_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
@@ -6645,6 +6705,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cooked_cod": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_glass_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 20:16:24 +0000"
@@ -6753,6 +6819,12 @@
     },
     "done": true
   },
+  "vampirism:recipes/vampirism/vampire/chandelier_candle": {
+    "criteria": {
+      "has_honey": "2024-12-16 03:02:56 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/door_mat": {
     "criteria": {
       "has_wheat": "2024-12-14 02:59:40 +0000"
@@ -6774,6 +6846,12 @@
   "croptopia:recipes/croptopia.croptopia/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-14 02:57:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-16 03:11:04 +0000"
     },
     "done": true
   },
@@ -7272,6 +7350,12 @@
   "cfm:recipes/cfm/warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2024-12-14 18:40:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2024-12-16 03:11:04 +0000"
     },
     "done": true
   },
@@ -8181,6 +8265,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-14 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
@@ -10110,6 +10200,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bone_block": {
+    "criteria": {
+      "has_the_recipe": "2024-12-16 03:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-14 02:29:36 +0000"
@@ -11160,6 +11256,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-14 20:19:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
@@ -12377,6 +12479,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 18:20:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
@@ -13766,6 +13874,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/conveyor_basic": {
     "criteria": {
       "has_leather": "2024-12-14 02:44:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-16 03:04:01 +0000"
     },
     "done": true
   },
