@@ -3388,6 +3388,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_slab_from_oak_stairs_woodcutting_combine": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:56:30 +0000",
+      "has_block": "2024-12-17 01:56:30 +0000"
+    },
+    "done": true
+  },
   "silentgear:root": {
     "criteria": {
       "get_item": "2024-12-14 02:28:52 +0000"
@@ -4879,6 +4886,12 @@
   "minecraft:recipes/building_blocks/stripped_spruce_wood": {
     "criteria": {
       "has_log": "2024-12-14 19:40:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_stairs_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:56:30 +0000"
     },
     "done": true
   },

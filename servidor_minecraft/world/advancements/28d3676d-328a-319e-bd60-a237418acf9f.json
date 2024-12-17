@@ -1157,6 +1157,12 @@
     },
     "done": true
   },
+  "elementalcraft:recipes/elementalcraft/powerful_fire_shard_from_fire_shards": {
+    "criteria": {
+      "has_fire_shard": "2024-12-17 02:00:40 +0000"
+    },
+    "done": true
+  },
   "naturesaura:positive_imbalance": {
     "criteria": {
       "triggered_in_code": "2024-12-14 20:04:21 +0000"
@@ -4209,6 +4215,12 @@
   "cfm:recipes/cfm/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_top": "2024-12-16 02:43:30 +0000"
+    },
+    "done": true
+  },
+  "elementalcraft:pickup/fire_shard": {
+    "criteria": {
+      "has_fire_shard": "2024-12-17 02:00:40 +0000"
     },
     "done": true
   },
