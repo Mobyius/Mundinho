@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_red": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/speedboat": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
@@ -116,6 +122,13 @@
   "xnet:recipes/xnet/connector_green_dye": {
     "criteria": {
       "chest": "2024-12-14 02:54:25 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000",
+      "has_the_recipe": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -1538,6 +1551,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000",
+      "has_the_recipe": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2024-12-14 13:33:54 +0000"
@@ -2194,6 +2214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
     "criteria": {
       "has_item": "2024-12-14 02:41:31 +0000"
@@ -2709,6 +2735,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/glass_red": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/jungle": {
     "criteria": {
       "has_jungle": "2024-12-14 02:12:30 +0000"
@@ -2849,6 +2881,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-14 15:38:38 +0000"
@@ -2948,6 +2986,12 @@
   "additionallanterns:recipes/additionallanterns/red_nether_bricks_lantern": {
     "criteria": {
       "recipe_condition": "2024-12-14 02:40:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -3364,6 +3408,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-14 02:51:47 +0000"
@@ -3379,6 +3429,18 @@
   "vampirism:recipes/vampirism/vampire/candelabra": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/glass_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -3759,6 +3821,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/spruce_crate": {
     "criteria": {
       "has_log": "2024-12-14 02:28:05 +0000"
@@ -3774,6 +3842,13 @@
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2024-12-14 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000",
+      "has_the_recipe": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -3970,6 +4045,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/cancel_ghostly_shape": {
     "criteria": {
       "coded_trigger": "2024-12-14 13:14:42 +0000"
@@ -4096,6 +4177,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000",
+      "has_the_recipe": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "littlelogistics:recipes/transportation/spring": {
     "criteria": {
       "has_item": "2024-12-14 02:51:47 +0000"
@@ -4129,6 +4217,13 @@
   "corail_woodcutter:recipes/from_byg_willow_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000",
+      "has_the_recipe": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -4190,6 +4285,12 @@
     "criteria": {
       "recipe_condition1": "2024-12-14 23:28:19 +0000",
       "has_the_recipe": "2024-12-14 23:28:19 +0000"
+    },
+    "done": true
+  },
+  "ae2:recipes/ae2.main/network/cables/dense_covered_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -4289,6 +4390,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_white": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/bone": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:47:28 +0000"
@@ -4382,6 +4489,12 @@
   "immersivepetroleum:recipes/decorations/candle": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_gate": {
+    "criteria": {
+      "has_dye": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -4581,6 +4694,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "ae2:recipes/ae2.main/misc/tiny_tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-14 13:33:56 +0000"
@@ -4741,6 +4860,12 @@
   "alltheores:recipes/alltheores/zinc_ingot_from_raw": {
     "criteria": {
       "has_item": "2024-12-14 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -5399,6 +5524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2024-12-14 02:39:45 +0000"
@@ -5663,6 +5794,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/screwdriver": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -6157,6 +6294,13 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000",
+      "has_the_recipe": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 13:47:46 +0000"
@@ -6166,6 +6310,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_slab_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-14 13:47:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -6191,6 +6341,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-14 15:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -6245,6 +6401,12 @@
   "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -6305,6 +6467,12 @@
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -6587,6 +6755,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:00 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -6911,6 +7085,12 @@
     },
     "done": true
   },
+  "xycraft_world:recipes/xycraft_world/shaped/glass_viewer_rgb": {
+    "criteria": {
+      "has_dye": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "vampirism:recipes/vampirism/hunter/hunter_table": {
     "criteria": {
       "has_fang": "2024-12-14 03:04:02 +0000"
@@ -6993,6 +7173,12 @@
   "naturescompass:natures_compass_log": {
     "criteria": {
       "has_recipe": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -7178,6 +7364,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_slab_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/cfm/dye_red_picket_fence": {
+    "criteria": {
+      "has_dye": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -7399,6 +7591,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
     "criteria": {
       "has_item": "2024-12-14 02:28:58 +0000"
@@ -7479,6 +7677,13 @@
   "rftoolsutility:recipes/rftoolsutility/inventoryplus_module": {
     "criteria": {
       "ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000",
+      "has_the_recipe": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -7759,6 +7964,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/misc/clear_glass_red_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/light_gray_seat": {
     "criteria": {
       "has_wool": "2024-12-14 18:42:03 +0000"
@@ -7955,6 +8166,13 @@
   "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:29 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000",
+      "has_the_recipe": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -8188,6 +8406,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "eccentrictome:recipes/tools/tome": {
     "criteria": {
       "has_book": "2024-12-14 15:38:38 +0000"
@@ -8215,6 +8439,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
     "criteria": {
       "has_book": "2024-12-14 15:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
@@ -8380,6 +8610,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/seismic_survey_tool": {
     "criteria": {
       "has_the_recipe": "2024-12-14 02:12:28 +0000"
@@ -8401,6 +8637,13 @@
   "ftbic:recipes/ftbic/compressing/industrial_grade_metal": {
     "criteria": {
       "has_item": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/misc/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:45 +0000",
+      "has_the_recipe": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -8513,6 +8756,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/dense_smart_red": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2024-12-14 02:39:35 +0000"
@@ -8595,6 +8844,12 @@
   "corail_woodcutter:recipes/from_byg_sythian_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -8796,6 +9051,12 @@
   "minecolonies:recipes/combat/chainmailhelmet": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-12-17 02:39:45 +0000"
     },
     "done": true
   },
@@ -9042,6 +9303,12 @@
     },
     "done": true
   },
+  "ae2:recipes/ae2.main/network/cables/smart_red": {
+    "criteria": {
+      "has_dyes/black": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-14 02:29:16 +0000"
@@ -9132,6 +9399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-12-17 02:39:40 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
     "criteria": {
       "has_item": "2024-12-14 15:38:38 +0000"
@@ -9171,6 +9444,13 @@
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/sapling": {
     "criteria": {
       "has_item": "2024-12-14 15:56:03 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_red2": {
+    "criteria": {
+      "recipe_condition2": "2024-12-17 02:39:40 +0000",
+      "has_the_recipe": "2024-12-17 02:39:40 +0000"
     },
     "done": true
   },
