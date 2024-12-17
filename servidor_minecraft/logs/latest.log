@@ -2946,3 +2946,17 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 01:53:40.568] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2834ms or 56 ticks behind
 [17Dec2024 01:54:15.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Successfully filled 2896 blocks]
 [17Dec2024 01:54:56.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[17Dec2024 02:09:59.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: olyverr lost connection: Disconnected
+[17Dec2024 02:09:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr left the game
+[17Dec2024 02:11:07.917] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ed1ae8e
+[17Dec2024 02:11:07.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:65288] logged in with entity id 115088 at (-186.6317935333759, 112.97760291340603, 169.8275907670634)
+[17Dec2024 02:11:08.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[17Dec2024 02:11:08.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[17Dec2024 02:11:08.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[17Dec2024 02:11:08.006] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[17Dec2024 02:11:08.009] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[17Dec2024 02:11:08.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[17Dec2024 02:11:08.011] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[17Dec2024 02:11:08.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[17Dec2024 02:11:08.713] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[17Dec2024 02:11:08.723] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
