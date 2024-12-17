@@ -1074,6 +1074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-17 03:00:16 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -1976,6 +1982,12 @@
   "ftbic:recipes/misc/macerating/bone_meal": {
     "criteria": {
       "has_item": "2024-12-14 13:21:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2024-12-17 03:00:16 +0000"
     },
     "done": true
   },
@@ -5657,6 +5669,12 @@
     },
     "done": true
   },
+  "sfm:recipes/sfm/water_tank": {
+    "criteria": {
+      "has_water": "2024-12-17 03:00:12 +0000"
+    },
+    "done": true
+  },
   "minecolonies:recipes/combat/chainmailleggings": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
@@ -8169,6 +8187,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_water_bottle": {
+    "criteria": {
+      "has_water": "2024-12-17 03:00:12 +0000"
+    },
+    "done": true
+  },
   "werewolves:recipes/werewolves/stone_altar_fire_bowl": {
     "criteria": {
       "has_planks": "2024-12-14 02:28:47 +0000"
@@ -8227,6 +8251,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-14 03:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2024-12-17 03:00:12 +0000"
     },
     "done": true
   },
@@ -8294,6 +8324,12 @@
   "compactmachines:recipes/compactmachines/wall": {
     "criteria": {
       "picked_up_deepslate": "2024-12-14 02:39:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/ice_from_freezing": {
+    "criteria": {
+      "has_water": "2024-12-17 03:00:12 +0000"
     },
     "done": true
   },
