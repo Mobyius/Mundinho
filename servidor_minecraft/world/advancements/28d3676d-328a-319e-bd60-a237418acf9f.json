@@ -6189,17 +6189,17 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "kelp": "2024-12-16 03:01:27 +0000"
-    },
-    "done": false
-  },
   "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
     "criteria": {
       "has_item0": "2024-12-16 02:01:33 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "kelp": "2024-12-16 03:01:27 +0000"
+    },
+    "done": false
   },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
@@ -6849,15 +6849,15 @@
     },
     "done": true
   },
-  "minecraft:nether/netherite_armor": {
-    "criteria": {
-      "netherite_armor": "2024-12-16 03:11:04 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/pink_kitchen_sink": {
     "criteria": {
       "has_concrete": "2024-12-16 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-16 03:11:04 +0000"
     },
     "done": true
   },
@@ -8076,15 +8076,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lime_dye_from_smelting": {
-    "criteria": {
-      "has_sea_pickle": "2024-12-16 02:59:55 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/cfm/acacia_kitchen_sink_light": {
     "criteria": {
       "has_top": "2024-12-16 01:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2024-12-16 02:59:55 +0000"
     },
     "done": true
   },
