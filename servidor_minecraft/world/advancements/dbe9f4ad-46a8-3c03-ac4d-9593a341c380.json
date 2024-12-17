@@ -3366,6 +3366,12 @@
     },
     "done": true
   },
+  "botania:recipes/botania/brewery": {
+    "criteria": {
+      "has_alt_item": "2024-12-17 17:30:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2024-12-14 02:28:06 +0000"
@@ -9048,6 +9054,12 @@
   "mcwroofs:recipes/concrete": {
     "criteria": {
       "has_planks": "2024-12-14 13:33:53 +0000"
+    },
+    "done": true
+  },
+  "botania:recipes/botania/alchemy_catalyst": {
+    "criteria": {
+      "has_alt_item": "2024-12-17 17:30:54 +0000"
     },
     "done": true
   },
