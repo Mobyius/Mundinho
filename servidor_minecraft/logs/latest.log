@@ -2946,3 +2946,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 00:36:58.446] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
 [17Dec2024 01:24:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [17Dec2024 01:26:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
+[17Dec2024 01:31:32.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Successfully filled 3207 blocks]
+[17Dec2024 01:31:58.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Successfully filled 110 blocks]

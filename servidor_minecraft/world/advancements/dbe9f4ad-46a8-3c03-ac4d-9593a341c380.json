@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/spruce/spruce_barn_trapdoor": {
     "criteria": {
       "has_logs": "2024-12-14 02:28:05 +0000"
@@ -374,6 +380,12 @@
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_pork": "2024-12-14 15:13:20 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_corner_trim": {
+    "criteria": {
+      "has_corner_trim": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -1743,6 +1755,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/creeper_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:00:08 +0000"
@@ -1782,6 +1800,12 @@
   "silentgear:recipes/silentgear/diamond_shard": {
     "criteria": {
       "has_item": "2024-12-14 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -1872,6 +1896,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_light_gray_pane2": {
     "criteria": {
       "recipe_condition1": "2024-12-14 23:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -2789,6 +2819,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/purple_grill": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:02 +0000"
@@ -3304,6 +3340,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-14 02:39:53 +0000"
@@ -3418,6 +3460,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "travelanchors:recipes/travelanchors/travel_staff": {
     "criteria": {
       "criterion0": "2024-12-14 02:39:03 +0000"
@@ -3476,6 +3524,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -3726,6 +3780,12 @@
   "alchemistry:recipes/dissolver/red_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-14 13:33:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -4303,6 +4363,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/building_blocks/stone_wall_stonecutting": {
+    "criteria": {
+      "has_item0": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
@@ -4774,6 +4840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/iron_hook": {
     "criteria": {
       "has_items": "2024-12-14 02:12:30 +0000"
@@ -5038,6 +5110,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/lime_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -5287,6 +5365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/oak/oak_door_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2024-12-14 03:06:10 +0000"
@@ -5502,6 +5586,12 @@
   "corail_woodcutter:recipes/from_sorting_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/smooth_stone": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -5953,6 +6043,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/stone_bricks": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_jungle_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -6085,6 +6181,12 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/stone_chain": {
+    "criteria": {
+      "recipe_condition": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/armor_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 13:29:29 +0000"
@@ -6094,6 +6196,12 @@
   "alchemistry:recipes/dissolver/lime_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2024-12-14 13:33:53 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/stone": {
+    "criteria": {
+      "has_planks": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -6112,6 +6220,12 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-14 02:28:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -6311,6 +6425,12 @@
   "alchemistry:recipes/dissolver/polished_diorite": {
     "criteria": {
       "has_the_recipe": "2024-12-14 13:48:45 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/vindicator_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -6526,6 +6646,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/witch_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/bench": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
@@ -6590,6 +6716,12 @@
     "criteria": {
       "recipe_condition1": "2024-12-14 23:28:19 +0000",
       "has_the_recipe": "2024-12-14 23:28:18 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/building_blocks/stone_wall": {
+    "criteria": {
+      "criterion0": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -7020,6 +7152,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/evoker_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -7386,6 +7524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/oak_blossom_trapdoor": {
     "criteria": {
       "has_plankss": "2024-12-14 03:06:10 +0000"
@@ -7443,6 +7587,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stone_pillar_trim": {
+    "criteria": {
+      "has_pillar_trim": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -8336,6 +8486,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/pillager_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2024-12-14 02:39:51 +0000"
@@ -8983,6 +9139,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/stone_slab": {
+    "criteria": {
+      "has_the_recipe": "2024-12-17 01:31:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-14 13:48:45 +0000"
@@ -9041,6 +9203,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-14 02:39:40 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_trophy": {
+    "criteria": {
+      "has_trophy": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
@@ -9470,6 +9638,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-14 03:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-17 01:31:36 +0000"
     },
     "done": true
   },
