@@ -2949,3 +2949,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 18:48:18.643] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
 [17Dec2024 18:48:18.655] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
 [17Dec2024 18:50:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <olyverr> bom dia
+[17Dec2024 18:55:58.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has completed the challenge [Learn to Fart]
+[17Dec2024 19:00:04.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr has made the advancement [Sweet Dreams]
