@@ -2962,3 +2962,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 02:11:08.723] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
 [17Dec2024 02:35:12.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Peaceful]
 [17Dec2024 02:35:16.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: The difficulty has been set to Normal]
+[17Dec2024 02:48:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[17Dec2024 02:48:33.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the weather to clear]
