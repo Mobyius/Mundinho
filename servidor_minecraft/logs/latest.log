@@ -2936,3 +2936,16 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 17:11:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [A Seedy Place]
 [17Dec2024 17:11:57.097] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
 [17Dec2024 17:22:13.952] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[17Dec2024 18:48:17.857] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1db5e842
+[17Dec2024 18:48:17.911] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: olyverr[/172.30.210.193:54001] logged in with entity id 496840 at (-186.1258700987632, 110.0, 175.5589242431761)
+[17Dec2024 18:48:17.951] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to olyverr
+[17Dec2024 18:48:17.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to olyverr
+[17Dec2024 18:48:17.952] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to olyverr
+[17Dec2024 18:48:17.953] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to olyverr
+[17Dec2024 18:48:17.957] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to olyverr
+[17Dec2024 18:48:17.962] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to olyverr
+[17Dec2024 18:48:17.963] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to olyverr
+[17Dec2024 18:48:18.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: olyverr joined the game
+[17Dec2024 18:48:18.643] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: olyverr
+[17Dec2024 18:48:18.655] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
+[17Dec2024 18:50:35.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <olyverr> bom dia
