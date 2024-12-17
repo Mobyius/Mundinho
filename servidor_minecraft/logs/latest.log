@@ -2935,3 +2935,4 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 17:10:08.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
 [17Dec2024 17:11:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [A Seedy Place]
 [17Dec2024 17:11:57.097] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[17Dec2024 17:22:13.952] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
