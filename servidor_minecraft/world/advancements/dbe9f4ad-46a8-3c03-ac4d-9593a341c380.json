@@ -1025,6 +1025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/birch_kitchen_drawer": {
     "criteria": {
       "has_chest": "2024-12-14 02:54:18 +0000"
@@ -1323,6 +1329,12 @@
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_trapdoor_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -2346,6 +2358,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_door_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pneumaticcraft/dispenser_upgrade": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-14 13:29:29 +0000"
@@ -2424,6 +2442,12 @@
     "criteria": {
       "give_recipe": "2024-12-14 19:39:07 +0000",
       "has_block": "2024-12-14 19:39:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_sign_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -2900,6 +2924,12 @@
   "immersiveengineering:recipes/immersiveengineering/crafting/plate_iron_hammering": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_button_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -4702,6 +4732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_planks_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_blue_enchanted_planks": {
     "criteria": {
       "has_ingredient": "2024-12-14 02:12:30 +0000"
@@ -4912,6 +4948,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_fence_gate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/smelting/industrial_grade_metal": {
     "criteria": {
       "has_item": "2024-12-14 02:39:02 +0000"
@@ -5029,6 +5071,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-14 02:39:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/oak_banister": {
+    "criteria": {
+      "has_item": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -5156,6 +5204,12 @@
   "create:recipes/create.palettes/small_diorite_brick_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-14 13:48:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/barrel_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -5626,6 +5680,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/oak_fence_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-14 02:28:47 +0000"
@@ -5992,6 +6052,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/tinkerer_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_pressure_plate_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -6367,6 +6433,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-14 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -6797,6 +6869,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/oak/chest_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/brown_seat": {
     "criteria": {
       "has_wool": "2024-12-14 18:42:03 +0000"
@@ -6951,6 +7029,12 @@
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-14 23:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/crafting_table_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },
@@ -8844,6 +8928,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2024-12-17 01:17:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-14 02:54:00 +0000"
@@ -9428,6 +9518,12 @@
   "create:recipes/create.base/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-14 02:41:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/oak/oak_chest_boat_from_oak_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2024-12-17 01:17:14 +0000"
     },
     "done": true
   },

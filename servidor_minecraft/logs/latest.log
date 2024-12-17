@@ -2944,3 +2944,5 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [17Dec2024 00:36:55.483] [Server thread/INFO] [Jade/]: Syncing config to olyverr (28d3676d-328a-319e-bd60-a237418acf9f)
 [17Dec2024 00:36:56.201] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2044ms or 40 ticks behind
 [17Dec2024 00:36:58.446] [Server thread/WARN] [de.teamlapen.vampirism.entity.ModEntityEventHandler/]: Could not modify villager zombie attack target task for translation{key='entity.minecraft.zombified_piglin', args=[]}
+[17Dec2024 01:24:31.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Set the time to 1000]
+[17Dec2024 01:26:45.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to olyverr]
