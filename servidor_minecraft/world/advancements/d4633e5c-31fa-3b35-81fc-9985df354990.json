@@ -222,6 +222,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-05 05:36:08 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-05 05:30:00 +0000"
@@ -2324,6 +2330,12 @@
     },
     "done": true
   },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-02-05 05:36:08 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:49 +0000"
@@ -2836,6 +2848,12 @@
       "has_the_recipe": "2025-02-05 05:13:29 +0000"
     },
     "done": true
+  },
+  "byg:adventure/oh_the_biomes_youll_go": {
+    "criteria": {
+      "byg:baobab_savanna": "2025-02-05 05:36:10 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {

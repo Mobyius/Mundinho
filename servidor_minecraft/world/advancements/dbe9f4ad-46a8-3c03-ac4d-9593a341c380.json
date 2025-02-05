@@ -270,6 +270,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2025-02-05 05:35:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2025-02-05 05:29:46 +0000"
@@ -761,6 +767,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 05:35:52 +0000"
+    },
+    "done": true
+  },
   "hexcasting:grant_patchi_book": {
     "criteria": {
       "tick": "2025-02-05 05:10:39 +0000"
@@ -1100,6 +1112,12 @@
   "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/chain": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:35:52 +0000"
     },
     "done": true
   },
@@ -1604,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 05:35:52 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/dark_oak": {
     "criteria": {
       "has_dark_oak": "2025-02-05 05:10:38 +0000"
@@ -1649,6 +1673,12 @@
   "corail_woodcutter:recipes/from_byg_bulbis_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-05 05:36:11 +0000"
     },
     "done": true
   },
@@ -1835,6 +1865,12 @@
   "mcwroofs:recipes/oak": {
     "criteria": {
       "has_planks": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/filter_rail": {
+    "criteria": {
+      "criterion1": "2025-02-05 05:35:52 +0000"
     },
     "done": true
   },
@@ -2644,6 +2680,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/reinforced_filter_rail": {
+    "criteria": {
+      "criterion1": "2025-02-05 05:35:52 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/raw_gold_block": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:18:48 +0000"
@@ -3004,6 +3046,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-02-05 05:36:11 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/misc/macerating/bone_meal": {
     "criteria": {
       "has_item": "2025-02-05 05:33:54 +0000"
@@ -3100,6 +3148,12 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-02-05 05:35:50 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mining_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:39 +0000"
@@ -3133,6 +3187,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-02-05 05:29:46 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/minecart_tinkerer": {
+    "criteria": {
+      "criterion1": "2025-02-05 05:35:52 +0000"
     },
     "done": true
   },
@@ -3454,6 +3514,12 @@
   "blue_skies:recipes/blue_skies_blocks/trough": {
     "criteria": {
       "has_item": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-02-05 05:35:52 +0000"
     },
     "done": true
   },
