@@ -6605,3 +6605,26 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [05Feb2025 05:22:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Sweet Dreams]
 [05Feb2025 05:24:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Barrel Booty]
 [05Feb2025 05:26:05.691] [Worker-Main-6/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Feb2025 05:27:31.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [This Must be a Sign!]
+[05Feb2025 05:27:37.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [This Must be a Sign!]
+[05Feb2025 05:30:16.244] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4431ms or 88 ticks behind
+[05Feb2025 05:30:16.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! -9.73121813284331,-0.5040129017765196,-2.9912052596019976
+[05Feb2025 05:30:16.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Robeertiin moved too quickly! -7.338217965541503,1.2491870787446828,-7.185521496598767
+[05Feb2025 05:30:28.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mobyius moved too quickly! -9.885013346762207,0.8322033533667508,-2.7214980563916242
+[05Feb2025 05:30:28.387] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Robeertiin moved too quickly! -9.925218105653812,-1.233632006042484,0.5249967366440842
+[05Feb2025 05:30:56.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Disme A Dozen]
+[05Feb2025 05:31:00.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has reached the goal [Flawless Crystals]
+[05Feb2025 05:31:00.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Not a Diamond]
+[05Feb2025 05:31:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [A Little Hot Rod Red]
+[05Feb2025 05:31:16.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Light Up The World!]
+[05Feb2025 05:31:49.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [What a Deal!]
+[05Feb2025 05:33:54.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Monster Hunter]
+[05Feb2025 05:34:38.360] [Worker-Main-5/WARN] [ModernFix/]: The namespace ars_elemental contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[05Feb2025 05:34:46.606] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=131, y=-41, z=335}
+[05Feb2025 05:34:46.607] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=132, y=-41, z=335}
+[05Feb2025 05:34:46.607] [Worker-Main-6/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=130, y=-41, z=335}
+[05Feb2025 05:35:08.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Magic Writing]
+[05Feb2025 05:35:50.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Tools of the Trade]
+[05Feb2025 05:36:08.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Cobweb Entanglement]
+[05Feb2025 05:36:19.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1380, y=54, z=274} but found not block entity block Block{minecraft:air} at location
+[05Feb2025 05:36:19.334] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1380, y=54, z=274}

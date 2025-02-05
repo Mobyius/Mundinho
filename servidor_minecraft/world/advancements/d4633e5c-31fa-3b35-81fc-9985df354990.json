@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_mystic_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-05 05:12:06 +0000"
@@ -72,6 +78,12 @@
     },
     "done": true
   },
+  "utilitix:recipes/utilitix/linked_repeater": {
+    "criteria": {
+      "criterion2": "2025-02-05 05:27:51 +0000"
+    },
+    "done": true
+  },
   "mcwtrpdoors:recipes/acacia/acacia_glass_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-05 05:12:06 +0000"
@@ -81,6 +93,12 @@
   "farmersdelight:recipes/farmersdelight/cooked_mutton_chops_from_smoking": {
     "criteria": {
       "cooked_mutton_chops": "2025-02-05 05:20:01 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
     },
     "done": true
   },
@@ -150,9 +168,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -189,6 +219,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2025-02-05 05:19:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -276,6 +312,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/salvager": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/planks": {
     "criteria": {
       "has_item": "2025-02-05 05:12:47 +0000"
@@ -310,6 +352,12 @@
   "cfm:recipes/cfm/diving_board": {
     "criteria": {
       "has_wheat": "2025-02-05 05:20:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -353,6 +401,12 @@
   "corail_woodcutter:recipes/from_twilight_oak_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -425,6 +479,12 @@
   "bambooeverything:recipes/bamboo_trapdoor": {
     "criteria": {
       "has_bundle": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "ftbic:recipes/building_blocks/macerating/cobblestone": {
+    "criteria": {
+      "has_item": "2025-02-05 05:27:51 +0000"
     },
     "done": true
   },
@@ -515,6 +575,12 @@
   "croptopia:recipes/pork_jerky": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:19:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -622,9 +688,33 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/coal_block": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_maple_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_light": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-05 05:27:31 +0000"
     },
     "done": true
   },
@@ -634,9 +724,21 @@
     },
     "done": true
   },
+  "rootsclassic:recipes/rootsclassic/mortar": {
+    "criteria": {
+      "has_stone": "2025-02-05 05:27:51 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_dark_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
     },
     "done": true
   },
@@ -679,6 +781,12 @@
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-02-05 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_green_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
     },
     "done": true
   },
@@ -826,6 +934,18 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_red_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2025-02-05 05:20:42 +0000"
@@ -921,6 +1041,12 @@
       "has_beef": "2025-02-05 05:19:56 +0000"
     },
     "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2025-02-05 05:35:04 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/cfm/acacia_blinds": {
     "criteria": {
@@ -1083,6 +1209,8 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-05 05:25:19 +0000",
       "minecraft:beach": "2025-02-05 05:13:23 +0000",
+      "minecraft:river": "2025-02-05 05:28:10 +0000",
+      "minecraft:desert": "2025-02-05 05:27:59 +0000",
       "minecraft:savanna": "2025-02-05 05:10:51 +0000"
     },
     "done": false
@@ -1158,6 +1286,12 @@
   "corail_woodcutter:recipes/from_time_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -1253,6 +1387,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_blue_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/reinforced_rail": {
     "criteria": {
       "criterion2": "2025-02-05 05:12:47 +0000"
@@ -1301,6 +1441,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic_fuel/basic_generator_fuel/coal": {
+    "criteria": {
+      "has_item": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:48 +0000"
@@ -1322,6 +1468,12 @@
   "byg:biomepedia_gift": {
     "criteria": {
       "tick": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
     },
     "done": true
   },
@@ -1385,9 +1537,27 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/acacia_desk_cabinet": {
     "criteria": {
       "has_log": "2025-02-05 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_blue": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
     },
     "done": true
   },
@@ -1511,6 +1681,12 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/single_use_battery": {
+    "criteria": {
+      "has_item": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
   "apotheosis:affix/root": {
     "criteria": {
       "sword": "2025-02-05 05:20:07 +0000"
@@ -1559,6 +1735,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-05 05:31:21 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-02-05 05:10:49 +0000"
@@ -1586,6 +1768,12 @@
   "cfm:recipes/cfm/acacia_bedside_cabinet": {
     "criteria": {
       "has_log": "2025-02-05 05:12:06 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/tiny_coal_to_tiny": {
+    "criteria": {
+      "criterion0": "2025-02-05 05:26:42 +0000"
     },
     "done": true
   },
@@ -1652,6 +1840,12 @@
   "minecraft:recipes/woodcutting/acacia/barrel_from_acacia_slab_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-05 05:24:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 05:31:21 +0000"
     },
     "done": true
   },
@@ -1764,9 +1958,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-02-05 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_green": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
     },
     "done": true
   },
@@ -1785,6 +1991,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-02-05 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-02-05 05:35:08 +0000"
     },
     "done": true
   },
@@ -1878,6 +2090,12 @@
     },
     "done": true
   },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-02-05 05:30:56 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/tools/diamond_fishing_rod": {
     "criteria": {
       "has_vanilla_rod": "2025-02-05 05:10:50 +0000"
@@ -1917,6 +2135,12 @@
   "immersivepetroleum:recipes/immersivepetroleum/petcoke_items_to_block": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:48 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
     },
     "done": true
   },
@@ -1972,6 +2196,18 @@
   "mcwfences:recipes/quartz": {
     "criteria": {
       "has_qq": "2025-02-05 05:10:50 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-02-05 05:31:00 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/stone_torch": {
+    "criteria": {
+      "has_item": "2025-02-05 05:26:42 +0000"
     },
     "done": true
   },
@@ -2041,6 +2277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
   "rftoolsbase:recipes/rftoolsbase/crafting_card": {
     "criteria": {
       "crafter": "2025-02-05 05:12:37 +0000"
@@ -2088,6 +2330,18 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/shaped/coal_ball": {
+    "criteria": {
+      "has_item": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
+  "silentgear:recipes/silentgear/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-02-05 05:24:18 +0000"
@@ -2101,9 +2355,21 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_dark": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/forbidden_arcanus/wooden_blacksmith_gavel": {
     "criteria": {
       "has_planks": "2025-02-05 05:12:48 +0000"
+    },
+    "done": true
+  },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_light_r": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
     },
     "done": true
   },
@@ -2203,6 +2469,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:48 +0000"
@@ -2263,6 +2535,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/undergarden_group/slingshot": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:47 +0000"
@@ -2281,9 +2559,21 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-05 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -2329,6 +2619,12 @@
     },
     "done": true
   },
+  "xycraft_override:recipes/xycraft_override/shaped/gilded_blackstone_red": {
+    "criteria": {
+      "has_gilded_blackstone": "2025-02-05 05:25:41 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_mining_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:50 +0000"
@@ -2353,6 +2649,12 @@
     },
     "done": true
   },
+  "silentgear:recipes/silentgear/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-02-05 05:35:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_trapdoor": {
     "criteria": {
       "has_planks": "2025-02-05 05:12:47 +0000"
@@ -2368,6 +2670,18 @@
   "immersivepetroleum:recipes/immersivepetroleum/molotov_wool": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:49 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-02-05 05:31:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/laser_block": {
+    "criteria": {
+      "has_stone": "2025-02-05 05:27:51 +0000"
     },
     "done": true
   },
@@ -2407,9 +2721,21 @@
     },
     "done": true
   },
+  "ftbic:recipes/ftbic/macerating/coal_dust": {
+    "criteria": {
+      "has_item": "2025-02-05 05:26:42 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic_fuel/basic_generator_fuel/stick": {
     "criteria": {
       "has_item": "2025-02-05 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-05 05:30:00 +0000"
     },
     "done": true
   },
@@ -2545,6 +2871,12 @@
   "utilitix:recipes/utilitix/crude_furnace": {
     "criteria": {
       "criterion1": "2025-02-05 05:13:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-05 05:31:21 +0000"
     },
     "done": true
   },

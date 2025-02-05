@@ -1,4 +1,16 @@
 {
+  "minecraft:recipes/woodcutting/birch/crafting_table_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "utilitix:recipes/utilitix/mob_bell": {
+    "criteria": {
+      "criterion2": "2025-02-05 05:33:54 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_fence": {
     "criteria": {
       "has_dry_bundle": "2025-02-05 05:10:38 +0000",
@@ -114,6 +126,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/bone_meal": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-02-05 05:19:38 +0000"
@@ -129,6 +147,18 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:56 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/dusk_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
@@ -186,6 +216,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_planks_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/projector": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:36 +0000"
@@ -231,6 +267,12 @@
   "mythicbotany:recipes/mythicbotany/central_rune_holder": {
     "criteria": {
       "criterion0": "2025-02-05 05:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:46 +0000"
     },
     "done": true
   },
@@ -307,6 +349,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_gate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/aquaculture/worm_farm": {
     "criteria": {
       "has_items": "2025-02-05 05:10:39 +0000"
@@ -344,6 +392,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_chest_boat_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:36 +0000"
@@ -356,6 +422,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/frostbright_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-02-05 05:18:49 +0000"
@@ -365,6 +437,12 @@
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_stairs_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:everbright/get_ventium": {
+    "criteria": {
+      "obtain_material": "2025-02-05 05:31:04 +0000"
     },
     "done": true
   },
@@ -465,6 +543,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/frostbright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/exposed_cut_copper_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
@@ -507,6 +591,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/starlit_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-02-05 05:19:27 +0000"
@@ -534,6 +624,12 @@
   "aquaculture:recipes/decorations/acacia_fish_mount": {
     "criteria": {
       "has_items": "2025-02-05 05:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/barrel_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
@@ -593,6 +689,12 @@
     },
     "done": true
   },
+  "mcwbridges:recipes/sandstone_bridge_pier": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/cfm/stripped_oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-02-05 05:12:52 +0000"
@@ -604,6 +706,12 @@
       "has_sapling": "2025-02-05 05:12:53 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-05 05:33:54 +0000"
+    },
+    "done": false
   },
   "ae2:recipes/ae2.main/network/blocks/crank": {
     "criteria": {
@@ -695,6 +803,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_fence_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-02-05 05:27:37 +0000"
+    },
+    "done": true
+  },
+  "eccentrictome:recipes/tools/tome": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-02-05 05:14:22 +0000"
@@ -707,6 +833,18 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_from_shard": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/sandstone": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/upgrade_tank": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
@@ -716,6 +854,12 @@
   "cfm:recipes/cfm/stripped_oak_park_bench": {
     "criteria": {
       "has_log": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/immersiveengineering/crafting/manual": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
     },
     "done": true
   },
@@ -875,6 +1019,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/ventium_bucket": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/warped": {
     "criteria": {
       "has_warped": "2025-02-05 05:10:38 +0000"
@@ -896,6 +1046,12 @@
   "croptopia:recipes/nougat": {
     "criteria": {
       "has_nuts": "2025-02-05 05:12:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
     },
     "done": true
   },
@@ -932,6 +1088,18 @@
   "cfm:recipes/cfm/stripped_oak_kitchen_counter": {
     "criteria": {
       "has_log": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_trapdoor_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
@@ -977,6 +1145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-02-05 05:33:54 +0000"
+    },
+    "done": true
+  },
   "utilitix:recipes/utilitix/diamond_shears": {
     "criteria": {
       "criterion0": "2025-02-05 05:20:21 +0000"
@@ -992,6 +1166,12 @@
   "minecraft:recipes/woodcutting/oak/oak_stairs_from_oak_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-02-05 05:14:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -1013,6 +1193,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/bluebright_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:56 +0000"
@@ -1028,6 +1214,12 @@
   "immersivepetroleum:recipes/immersiveengineering/ersatz_leather": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/cherry_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
     },
     "done": true
   },
@@ -1058,6 +1250,12 @@
   "croptopia:recipes/croptopia.croptopia/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-02-05 05:19:21 +0000"
+    },
+    "done": true
+  },
+  "alchemistry:recipes/dissolver/sandstone_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -1101,6 +1299,12 @@
   "corail_woodcutter:recipes/from_byg_aspen_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-02-05 05:33:54 +0000"
     },
     "done": true
   },
@@ -1180,6 +1384,8 @@
     "criteria": {
       "minecraft:savanna_plateau": "2025-02-05 05:23:44 +0000",
       "minecraft:beach": "2025-02-05 05:12:28 +0000",
+      "minecraft:river": "2025-02-05 05:28:08 +0000",
+      "minecraft:desert": "2025-02-05 05:27:58 +0000",
       "minecraft:savanna": "2025-02-05 05:10:40 +0000"
     },
     "done": false
@@ -1243,6 +1449,12 @@
   "cfm:recipes/cfm/oak_desk_cabinet": {
     "criteria": {
       "has_log": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/chest_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
@@ -1350,6 +1562,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/moonstone_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/elderberry_jam": {
     "criteria": {
       "has_elderberry": "2025-02-05 05:13:12 +0000"
@@ -1407,6 +1625,18 @@
   "ftbic:recipes/ftbic/macerating/obsidian_dust": {
     "criteria": {
       "has_item": "2025-02-05 05:20:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/maple_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -1482,6 +1712,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_blocks/ventium_block": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
+    },
+    "done": true
+  },
   "undergarden:recipes/decorations/torch_ditchbulb_paste": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:56 +0000"
@@ -1536,9 +1772,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "ae2additions:recipes/ae2additions/super_cell_housing": {
     "criteria": {
       "has_item": "2025-02-05 05:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_stairs_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -1584,6 +1838,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/maple_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "immersiveengineering:recipes/decorations/crafting/torch": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:56 +0000"
@@ -1620,6 +1880,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_combat/cherry_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/food/cooked_fish_fillet_from_campfire": {
     "criteria": {
       "has_items": "2025-02-05 05:10:38 +0000"
@@ -1629,6 +1895,12 @@
   "mcwtrpdoors:recipes/oak/oak_barn_trapdoor": {
     "criteria": {
       "has_logs": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/lunar_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
     },
     "done": true
   },
@@ -1710,6 +1982,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everbright_blocks/starlit_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/asphalt_stair": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
@@ -1719,6 +1997,12 @@
   "croptopia:recipes/trail_mix": {
     "criteria": {
       "has_nuts": "2025-02-05 05:12:53 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/bluebright_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
     },
     "done": true
   },
@@ -1770,6 +2054,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-02-05 05:30:59 +0000"
+    },
+    "done": true
+  },
   "mcwfences:recipes/spruce": {
     "criteria": {
       "has_spruce": "2025-02-05 05:10:38 +0000"
@@ -1782,6 +2072,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-02-05 05:27:24 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-02-05 05:12:56 +0000"
@@ -1791,6 +2087,12 @@
   "cfm:recipes/cfm/oak_blinds": {
     "criteria": {
       "has_log": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "mcwbridges:recipes/sandstone_bridge": {
+    "criteria": {
+      "has_planks": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -1842,9 +2144,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
   "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
     "criteria": {
       "has_wct": "2025-02-05 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-02-05 05:30:59 +0000"
     },
     "done": true
   },
@@ -1903,6 +2223,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_tools/zeal_lighter": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_nightshade_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:38 +0000"
@@ -1933,6 +2259,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/cut_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
   "bambooeverything:recipes/dry_bamboo_bundle_uncrafting": {
     "criteria": {
       "has_dry_bundle": "2025-02-05 05:10:39 +0000"
@@ -1951,6 +2283,12 @@
     },
     "done": true
   },
+  "blue_skies:recipes/blue_skies_everdawn_blocks/dusk_bookshelf": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-05 05:14:22 +0000"
@@ -1960,6 +2298,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-02-05 05:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -2002,6 +2346,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-02-05 05:20:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/birch/birch_door_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
@@ -2264,6 +2614,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-02-05 05:31:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2025-02-05 05:17:58 +0000"
@@ -2336,6 +2692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_pressure_plate_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-02-05 05:17:58 +0000"
@@ -2386,6 +2748,12 @@
   "corail_woodcutter:recipes/from_byg_witch_hazel_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -2453,6 +2821,12 @@
   "sophisticatedstorage:recipes/sophisticatedstorage/oak_barrel": {
     "criteria": {
       "has_oak_plank": "2025-02-05 05:14:22 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/decorations/anvil_compat": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
     },
     "done": true
   },
@@ -2534,6 +2908,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_button_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/building_blocks/copper_block_paraffin_waxed": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
@@ -2555,6 +2935,12 @@
   "mcwroofs:recipes/cobblestone": {
     "criteria": {
       "has_planks": "2025-02-05 05:14:38 +0000"
+    },
+    "done": true
+  },
+  "rftoolsbase:recipes/rftoolsbase/manual": {
+    "criteria": {
+      "book": "2025-02-05 05:31:19 +0000"
     },
     "done": true
   },
@@ -2618,15 +3004,39 @@
     },
     "done": true
   },
+  "ftbic:recipes/misc/macerating/bone_meal": {
+    "criteria": {
+      "has_item": "2025-02-05 05:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-02-05 05:14:38 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/woodcutting/birch/birch_sign_from_birch_slab_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_misc/ventium_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
+    },
+    "done": true
+  },
   "immersivepetroleum:recipes/immersivepetroleum/paraffin_wax_block_to_items": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:10:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-02-05 05:33:55 +0000"
     },
     "done": true
   },
@@ -2663,6 +3073,12 @@
   "irons_spellbooks:grant_patchouli": {
     "criteria": {
       "tick": "2025-02-05 05:10:38 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/tool_box": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
     },
     "done": true
   },
@@ -2714,6 +3130,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-02-05 05:14:22 +0000"
@@ -2741,6 +3163,12 @@
   "cfm:recipes/cfm/oak_desk": {
     "criteria": {
       "has_log": "2025-02-05 05:12:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:45 +0000"
     },
     "done": true
   },
@@ -2786,6 +3214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2025-02-05 05:29:46 +0000"
+    },
+    "done": true
+  },
   "ftbic:recipes/ftbic/macerating/coal_dust": {
     "criteria": {
       "has_item": "2025-02-05 05:15:57 +0000"
@@ -2798,9 +3232,21 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "alchemistry:recipes/dissolver/emerald_block": {
     "criteria": {
       "has_the_recipe": "2025-02-05 05:20:58 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_combat/lunar_spear": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:16 +0000"
     },
     "done": true
   },
@@ -2878,6 +3324,12 @@
     },
     "done": true
   },
+  "alchemistry:recipes/dissolver/smooth_sandstone": {
+    "criteria": {
+      "has_the_recipe": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
   "byg:root": {
     "criteria": {
       "tick": "2025-02-05 05:10:39 +0000"
@@ -2921,6 +3373,18 @@
     },
     "done": true
   },
+  "additionallanterns:recipes/additionallanterns/normal_sandstone_chain": {
+    "criteria": {
+      "recipe_condition": "2025-02-05 05:29:45 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-02-05 05:30:59 +0000"
+    },
+    "done": true
+  },
   "aquaculture:recipes/decorations/dark_oak_fish_mount": {
     "criteria": {
       "has_items": "2025-02-05 05:10:38 +0000"
@@ -2945,6 +3409,18 @@
     },
     "done": true
   },
+  "blue_skies:get_moonstone_shard": {
+    "criteria": {
+      "obtain_moonstone_shard": "2025-02-05 05:31:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-02-05 05:29:35 +0000"
+    },
+    "done": true
+  },
   "corail_woodcutter:recipes/from_byg_imparius_planks": {
     "criteria": {
       "has_ingredient": "2025-02-05 05:10:39 +0000"
@@ -2966,6 +3442,18 @@
   "ftbic:recipes/ftbic/macerating/raw_materials/iron_to_dust": {
     "criteria": {
       "has_item": "2025-02-05 05:16:33 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_tools/ventium_shears": {
+    "criteria": {
+      "has_item": "2025-02-05 05:31:04 +0000"
+    },
+    "done": true
+  },
+  "blue_skies:recipes/blue_skies_blocks/trough": {
+    "criteria": {
+      "has_item": "2025-02-05 05:29:35 +0000"
     },
     "done": true
   },
