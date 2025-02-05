@@ -6571,3 +6571,37 @@ java.lang.ClassNotFoundException: net.minecraft.client.resources.sounds.Abstract
 [05Feb2025 05:14:38.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Stone Age]
 [05Feb2025 05:14:59.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Getting an Upgrade]
 [05Feb2025 05:15:16.781] [Server thread/WARN] [minecolonies/]: Writing Recipe Manager: 0 recipes!
+[05Feb2025 05:16:47.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Mobyius a server operator
+[05Feb2025 05:16:56.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Gamerule keepInventory is now set to: true]
+[05Feb2025 05:18:40.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement ['X' Marks the Spot]
+[05Feb2025 05:18:49.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Apothic Affixes]
+[05Feb2025 05:18:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [I Found It Underground]
+[05Feb2025 05:18:49.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Suit Up]
+[05Feb2025 05:18:54.965] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3202ms or 64 ticks behind
+[05Feb2025 05:18:54.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Barrel Booty]
+[05Feb2025 05:18:55.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Robeertiin moved too quickly! -6.513086593729668,3.176759275064242,-7.095249379024068
+[05Feb2025 05:18:55.040] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-550, y=69, z=427} but found not block entity block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] at location
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_stairs}[facing=north,half=bottom,shape=straight,waterlogged=false] but failed at location BlockPos{x=-550, y=69, z=427}
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-550, y=69, z=426} but found not block entity block Block{minecraft:stone} at location
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone} but failed at location BlockPos{x=-550, y=69, z=426}
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-550, y=70, z=426} but found not block entity block Block{minecraft:lantern}[hanging=false,waterlogged=false] at location
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:lantern}[hanging=false,waterlogged=false] but failed at location BlockPos{x=-550, y=70, z=426}
+[05Feb2025 05:18:55.041] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-549, y=72, z=427} but found not block entity block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] at location
+[05Feb2025 05:18:55.042] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:spruce_trapdoor}[facing=north,half=bottom,open=false,powered=false,waterlogged=false] but failed at location BlockPos{x=-549, y=72, z=427}
+[05Feb2025 05:19:27.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius was slain by Zombie
+[05Feb2025 05:19:27.585] [Server thread/INFO] [tombstone/]: The player Mobyius has successfully been saved
+[05Feb2025 05:19:31.805] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[05Feb2025 05:19:38.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mobyius: Teleported Mobyius to Robeertiin]
+[05Feb2025 05:19:53.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement ['X' Marks the Spot]
+[05Feb2025 05:20:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Apothic Affixes]
+[05Feb2025 05:20:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [I Found It Underground]
+[05Feb2025 05:20:21.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Diamonds!]
+[05Feb2025 05:20:22.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Ice Bucket Challenge]
+[05Feb2025 05:20:37.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Disme A Dozen]
+[05Feb2025 05:20:47.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Suit Up]
+[05Feb2025 05:21:14.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Crops of the Wild]
+[05Feb2025 05:21:26.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has reached the goal [Here They Come]
+[05Feb2025 05:21:30.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Sweet Dreams]
+[05Feb2025 05:22:17.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mobyius has made the advancement [Sweet Dreams]
+[05Feb2025 05:24:18.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Robeertiin has made the advancement [Barrel Booty]
+[05Feb2025 05:26:05.691] [Worker-Main-6/WARN] [ModernFix/]: The namespace yungsextras contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
