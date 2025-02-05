@@ -1,136 +1,100 @@
-[17:00:58] [INIT] KubeJS 1902.6.2-build.45; MC 1902 forge
-[17:00:58] [INIT] Loaded plugins:
-[17:00:58] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[17:00:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[17:00:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[17:00:58] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[17:00:58] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
-[17:00:58] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
-[17:00:58] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.008 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.006 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.005 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.004 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:tags.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:erroringRecipes.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:ore_removal.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:xpFluids.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.005 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_alloys.js in 0.006 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_star.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_molten_fluids.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/mini_portals.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/att_items.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/music_discs.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/bugs.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:conflicts.js in 0.004 s
-[17:01:00] [INFO] Loaded script server_scripts:ore_processing.js in 0.004 s
-[17:01:00] [INFO] Loaded script server_scripts:configurable/chunkloading.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:configurable/nuke.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/computercraft/turtles.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersivepetroleum.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersiveengineering.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/refinedstorage/refinedstorage.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/ftbquests/customTask.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/thermal/thermal.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/quark/quark.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/hexerei/hexereiDupe.js in 0.001 s
-[17:01:00] [INFO] mods/farmingforblockheads/market.js#59: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
-[17:01:00] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/allthemodium/armor_upgrades.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/allthemodium/piglich_heart.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/farmersdelight/create_compat.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/deepresonance/deepresonance.js in 0.0 s
-[17:01:00] [INFO] mods/chemlib/blocks.js#1: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
-[17:01:00] [INFO] Loaded script server_scripts:mods/chemlib/blocks.js in 0.002 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/ftbic/book.js in 0.0 s
-[17:01:00] [INFO] mods/mysticalagriculture/crops.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
-[17:01:00] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.005 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/twilightforest/removals.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/eccentrictome/tome.js in 0.014 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/entangled/recipes.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.0 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.003 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.001 s
-[17:01:00] [INFO] Loaded script server_scripts:mods/rftools/builder.js in 0.0 s
-[17:01:00] [INFO] Loaded 68/68 KubeJS server scripts in 0.146 s
-[17:01:00] [INFO] Scripts loaded
-[17:01:00] [INFO] Initializing recipe event...
-[17:01:08] [INFO] [minecraft:worldgen/biome] Found 680 tags, added 11 objects, removed 0 objects
-[17:01:08] [INFO] [minecraft:fluid] Found 215 tags, added 0 objects, removed 14 objects
-[17:01:08] [INFO] [minecraft:entity_type] Found 177 tags, added 59 objects, removed 0 objects
-[17:01:09] [INFO] [minecraft:block] Found 2055 tags, added 222 objects, removed 0 objects
-[17:01:09] [INFO] [minecraft:item] Found 4488 tags, added 204 objects, removed 484 objects
-[17:01:22] [INFO] Processing recipes...
-[17:01:22] [INFO] Found 45974 recipes in 577.7 ms
-[17:01:29] [INFO] Posted recipe events in 6.360 s
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_boots[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_boots"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":360},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_boots'
-[17:01:29] [WARN] Error parsing recipe create:pressing/compat/byg/lush_grass_path[create:pressing]: {"type":"create:pressing","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:lush_grass"}],"results":[{"item":"byg:lush_grass_path"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:lush_grass'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_pick[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_pickaxe"},"result":{"fluid":"allthemodium:molten_vibranium","amount":450},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_pickaxe'
-[17:01:29] [WARN] Error parsing recipe create:crushing/compat/ae2/quartz_ore[create:crushing]: {"type":"create:crushing","conditions":[{"type":"forge:mod_loaded","modid":"ae2"}],"ingredients":[{"item":"ae2:quartz_ore"}],"processingTime":300,"results":[{"item":"ae2:certus_quartz_crystal"},{"count":4,"item":"ae2:certus_quartz_dust"},{"chance":0.5,"item":"ae2:certus_quartz_dust"},{"chance":0.125,"item":"minecraft:cobblestone"}]}: com.google.gson.JsonSyntaxException: Unknown item 'ae2:quartz_ore'
-[17:01:29] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":4},{"item":"thermal:press_packing_2x2_die"}],"result":[{"item":"tconstruct:blood_congealed_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_packing
-Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_chestplate[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_chestplate"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":720},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_chestplate'
-[17:01:29] [WARN] Error parsing recipe allthemodium:casting/alloys/vibranium_allthemodium_alloy_ingot[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"item":"allthemodium:piglich_heart"},"cast_consumed":true,"fluid":{"name":"allthemodium:molten_atmvib","amount":90},"result":"allthemodium:vibranium_allthemodium_alloy_ingot","cooling_time":740,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse name as registry minecraft:fluid does not contain ID allthemodium:molten_atmvib
-[17:01:29] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":9}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_unpacking
-Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[17:01:29] [WARN] Error parsing recipe create:filling/compat/vampirism/cursed_grass_block[create:filling]: {"type":"create:filling","conditions":[{"type":"forge:mod_loaded","modid":"vampirism"}],"ingredients":[{"item":"vampirism:cursed_dirt"},{"amount":500,"fluid":"minecraft:water","nbt":{}}],"results":[{"item":"vampirism:cursed_grass_block"}]}: com.google.gson.JsonSyntaxException: Unknown item 'vampirism:cursed_dirt'
-[17:01:29] [WARN] Error parsing recipe allthemodium:casting/alloys/unobtainium_allthemodium_alloy_ingot[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"item":"allthemodium:piglich_heart"},"cast_consumed":true,"fluid":{"name":"allthemodium:molten_atmunob","amount":90},"result":"allthemodium:unobtainium_allthemodium_alloy_ingot","cooling_time":1209,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse name as registry minecraft:fluid does not contain ID allthemodium:molten_atmunob
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_helmet[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_helmet"},"result":{"fluid":"allthemodium:molten_vibranium","amount":450},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_helmet'
-[17:01:29] [WARN] Error parsing recipe create:crushing/compat/ae2/deepslate_quartz_ore[create:crushing]: {"type":"create:crushing","conditions":[{"type":"forge:mod_loaded","modid":"ae2"}],"ingredients":[{"item":"ae2:deepslate_quartz_ore"}],"processingTime":300,"results":[{"item":"ae2:certus_quartz_crystal"},{"count":4,"item":"ae2:certus_quartz_dust"},{"chance":0.5,"item":"ae2:certus_quartz_dust"},{"chance":0.125,"item":"minecraft:cobbled_deepslate"}]}: com.google.gson.JsonSyntaxException: Unknown item 'ae2:deepslate_quartz_ore'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_sword[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_sword"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":270},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_sword'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_chestplate[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_chestplate"},"result":{"fluid":"allthemodium:molten_vibranium","amount":720},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_chestplate'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_shovel[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_shovel"},"result":{"fluid":"allthemodium:molten_vibranium","amount":270},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_shovel'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_axe[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_axe"},"result":{"fluid":"allthemodium:molten_vibranium","amount":450},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_axe'
-[17:01:29] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_shovel[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_shovel"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":270},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_shovel'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_sword[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_sword"},"result":{"fluid":"allthemodium:molten_vibranium","amount":270},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_sword'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_hoe[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_hoe"},"result":{"fluid":"allthemodium:molten_vibranium","amount":360},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_hoe'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_pick[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_pickaxe"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":450},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_pickaxe'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_axe[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_axe"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":450},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_axe'
-[17:01:30] [WARN] Error parsing recipe allthemodium:alloys/molten_vibunob[tconstruct:alloy]: {"type":"tconstruct:alloy","inputs":[{"tag":"forge:molten_vibranium","amount":90},{"tag":"forge:molten_unobtainium","amount":90}],"result":{"fluid":"allthemodium:molten_vibunob","amount":90},"temperature":9000,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse fluid as registry minecraft:fluid does not contain ID allthemodium:molten_vibunob
-[17:01:30] [WARN] Error parsing recipe allthemodium:alloys/molten_atmvib[tconstruct:alloy]: {"type":"tconstruct:alloy","inputs":[{"tag":"forge:molten_allthemodium","amount":90},{"tag":"forge:molten_vibranium","amount":90}],"result":{"fluid":"allthemodium:molten_atmvib","amount":90},"temperature":9000,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse fluid as registry minecraft:fluid does not contain ID allthemodium:molten_atmvib
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_hoe[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_hoe"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":360},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_hoe'
-[17:01:30] [WARN] Error parsing recipe create:milling/compat/byg/compat/byg/winter_cyclamen[create:milling]: {"type":"create:milling","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:compat/byg/winter_cyclamen"}],"processingTime":50,"results":[{"count":2,"item":"minecraft:cyan_dye"},{"chance":0.1,"item":"minecraft:green_dye"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/winter_cyclamen'
-[17:01:30] [WARN] Error parsing recipe create:pressing/cursed_earth_path_from_grass[create:pressing]: {"type":"create:pressing","conditions":[{"type":"forge:mod_loaded","modid":"vampirism"}],"ingredients":[{"item":"regions_unexplored:cursed_grass"}],"results":[{"item":"vampirism:cursed_earth_path"}]}: com.google.gson.JsonSyntaxException: Unknown item 'regions_unexplored:cursed_grass'
-[17:01:30] [WARN] Error parsing recipe create:milling/compat/byg/purple_rose[create:milling]: {"type":"create:milling","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:purple_rose"}],"processingTime":50,"results":[{"count":2,"item":"minecraft:purple_dye"},{"chance":0.1,"item":"minecraft:magenta_dye"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:purple_rose'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_leggings[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_leggings"},"result":{"fluid":"allthemodium:molten_vibranium","amount":630},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_leggings'
-[17:01:30] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_slime_ball","count":9},{"item":"thermal:press_packing_3x3_die"}],"result":[{"item":"tconstruct:blood_slime"}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_3x3_packing
-Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/vibranium/vibranium_from_boots[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:vibranium_boots"},"result":{"fluid":"allthemodium:molten_vibranium","amount":360},"temperature":5000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:vibranium_boots'
-[17:01:30] [WARN] Error parsing recipe allthemodium:alloys/molten_atmunob[tconstruct:alloy]: {"type":"tconstruct:alloy","inputs":[{"tag":"forge:molten_allthemodium","amount":90},{"tag":"forge:molten_unobtainium","amount":90}],"result":{"fluid":"allthemodium:molten_atmunob","amount":90},"temperature":9000,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse fluid as registry minecraft:fluid does not contain ID allthemodium:molten_atmunob
-[17:01:30] [WARN] Error parsing recipe thermal:compat/tconstruct/bottler_tconstruct_lavawood[thermal:bottler]: {"type":"thermal:bottler","ingredients":[{"tag":"minecraft:planks"},{"fluid":"minecraft:lava","amount":100}],"result":[{"item":"tconstruct:lavawood"}],"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/tconstruct/bottler_tconstruct_lavawood
-Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_helmet[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_helmet"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":450},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_helmet'
-[17:01:30] [WARN] Error parsing recipe create:milling/compat/byg/compat/byg/white_sage[create:milling]: {"type":"create:milling","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:compat/byg/white_sage"}],"processingTime":50,"results":[{"count":2,"item":"minecraft:white_dye"},{"chance":0.1,"item":"minecraft:gray_dye"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:compat/byg/white_sage'
-[17:01:30] [WARN] Error parsing recipe allthemodium:casting/alloys/unobtainium_vibranium_alloy_ingot[tconstruct:casting_table]: {"type":"tconstruct:casting_table","cast":{"item":"allthemodium:piglich_heart"},"cast_consumed":true,"fluid":{"name":"allthemodium:molten_vibunob","amount":90},"result":"allthemodium:unobtainium_vibranium_alloy_ingot","cooling_time":1804,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unable to parse name as registry minecraft:fluid does not contain ID allthemodium:molten_vibunob
-[17:01:30] [WARN] Error parsing recipe thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking[thermal:press]: {"type":"thermal:press","ingredients":[{"item":"tconstruct:blood_congealed_slime"},{"item":"thermal:press_unpacking_die"}],"result":[{"item":"tconstruct:blood_slime_ball","count":4}],"energy":400,"conditions":[{"type":"thermal:flag","flag":"mod_tconstruct"}]}: com.google.gson.JsonSyntaxException: Invalid Thermal Series recipe: thermal:compat/tconstruct/press_tconstruct_blood_slime_2x2_unpacking
-Refer to the recipe's ResourceLocation to find the mod responsible and let them know!
-[17:01:30] [WARN] Error parsing recipe create:milling/compat/byg/lolipop_flower[create:milling]: {"type":"create:milling","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:lolipop_flower"}],"processingTime":50,"results":[{"count":2,"item":"minecraft:yellow_dye"},{"chance":0.25,"item":"minecraft:yellow_dye"},{"chance":0.05,"item":"minecraft:green_dye"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:lolipop_flower'
-[17:01:30] [WARN] Error parsing recipe create:milling/compat/byg/orchid[create:milling]: {"type":"create:milling","conditions":[{"type":"forge:mod_loaded","modid":"byg"}],"ingredients":[{"item":"byg:orchid"}],"processingTime":50,"results":[{"count":2,"item":"minecraft:pink_dye"},{"chance":0.05,"item":"minecraft:white_dye"}]}: com.google.gson.JsonSyntaxException: Unknown item 'byg:orchid'
-[17:01:30] [WARN] Error parsing recipe allthemodium:melting/salvage/unobtainium/unobtainium_from_leggings[tconstruct:melting]: {"type":"tconstruct:melting","ingredient":{"item":"allthemodium:unobtainium_leggings"},"result":{"fluid":"allthemodium:molten_unobtainium","amount":630},"temperature":9000,"time":200,"conditions":[{"type":"forge:mod_loaded","modid":"tconstruct"}]}: com.google.gson.JsonSyntaxException: Unknown item 'allthemodium:unobtainium_leggings'
-[17:01:31] [INFO] Added 1628 recipes, removed 263 recipes, modified 3 recipes, with 39 failed recipes in 2.038 s
+[05:07:37] [INIT] KubeJS 1902.6.2-build.45; MC 1902 forge
+[05:07:37] [INIT] Loaded plugins:
+[05:07:37] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[05:07:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[05:07:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[05:07:37] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[05:07:37] [INIT] - dev.ftb.mods.ftbic.kubejs.FTBICKubeJSPlugin
+[05:07:37] [INIT] - com.almostreliable.ponderjs.PonderJSPlugin
+[05:07:37] [INIT] - com.klikli_dev.modonomicon.integration.kubejs.ModonomiconKubeJSPlugin
+[05:07:39] [INFO] Loaded script server_scripts:postUnify/_before.js in 0.008 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/dust.js in 0.005 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/wires.js in 0.004 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/storage_blocks.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/ingots.js in 0.004 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/nuggets.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/raw_materials.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/plates.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/rods.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:postUnify/gears.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/patrick_star.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_star.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/mini_portals.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_molten_fluids.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_alloys.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_shard.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/bugs.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/att_items.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_alloy_tools.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/atm_star_creative.js in 0.005 s
+[05:07:40] [INFO] Loaded script server_scripts:modpack/music_discs.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:ore_processing.js in 0.009 s
+[05:07:40] [INFO] Loaded script server_scripts:xpFluids.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:configurable/nuke.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:configurable/chunkloading.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:tags.js in 0.002 s
+[05:07:40] [INFO] Loaded script server_scripts:ore_removal.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:conflicts.js in 0.008 s
+[05:07:40] [INFO] Loaded script server_scripts:erroringRecipes.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/ftbquests/customTask.js in 0.001 s
+[05:07:40] [INFO] mods/chemlib/blocks.js#1: Loaded Java class 'com.smashingmods.chemlib.registry.ItemRegistry'
+[05:07:40] [INFO] Loaded script server_scripts:mods/chemlib/blocks.js in 0.004 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/eccentrictome/tome.js in 0.017 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/evilcraft/evilcraft.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/silent_gear/salvager.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersivepetroleum.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/immersiveengineering/immersiveengineering.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/ars_nouveau/ars_nouveau.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/quark/quark.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crafting.js in 0.001 s
+[05:07:40] [INFO] mods/mysticalagriculture/crops.js#1: Loaded Java class 'com.blakebr0.mysticalagriculture.registry.CropRegistry'
+[05:07:40] [INFO] Loaded script server_scripts:mods/mysticalagriculture/crops.js in 0.007 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/mininggadgets/upgrade.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/hexerei/hexereiDupe.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/farmersdelight/create_compat.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/quarryplus/quarrying.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/deepresonance/deepresonance.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/ftbic/book.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/hostileneuralnetworks/hnn.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/ad_astra/ad_astra.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/structure_compass/structure_compass.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/computercraft/turtles.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/mekanism/mekanismServer.js in 0.004 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/mekanism/mekanism.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/rftools/builder.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/create/crushed_platinum.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/timeinabottle/recipes.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/reliquary/reliquary.js in 0.0 s
+[05:07:40] [INFO] mods/farmingforblockheads/market.js#59: Loaded Java class 'net.blay09.mods.farmingforblockheads.api.FarmingForBlockheadsAPI'
+[05:07:40] [INFO] Loaded script server_scripts:mods/farmingforblockheads/market.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/thermal/thermal.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/twilightforest/removals.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/allthemodium/piglich_heart.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/allthemodium/armor_upgrades.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/ae/recipes.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/refinedstorage/refinedstorage.js in 0.003 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/industrialforegoing/industrial_foregoing.js in 0.001 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/industrialforegoing/fluid_extractor.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/angelring/angelring.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/entangled/recipes.js in 0.0 s
+[05:07:40] [INFO] Loaded script server_scripts:mods/buildinggadgets/recipes.js in 0.001 s
+[05:07:40] [INFO] Loaded 68/68 KubeJS server scripts in 0.168 s
+[05:07:40] [INFO] Scripts loaded
+[05:07:40] [INFO] Initializing recipe event...
+[05:07:48] [INFO] [minecraft:worldgen/biome] Found 635 tags, added 11 objects, removed 0 objects
+[05:07:48] [INFO] [minecraft:fluid] Found 98 tags, added 0 objects, removed 14 objects
+[05:07:48] [INFO] [minecraft:entity_type] Found 153 tags, added 59 objects, removed 0 objects
+[05:07:48] [INFO] [minecraft:block] Found 1950 tags, added 222 objects, removed 0 objects
+[05:07:48] [INFO] [minecraft:item] Found 4211 tags, added 204 objects, removed 484 objects
+[05:08:01] [INFO] Processing recipes...
+[05:08:02] [INFO] Found 41818 recipes in 631.4 ms
+[05:08:08] [INFO] Posted recipe events in 6.671 s
+[05:08:09] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_mysterywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_mysterywood"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:mysterywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_mysterywood'
+[05:08:09] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_cherrywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_cherrywood_log"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:cherrywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_cherrywood_log'
+[05:08:09] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/mysterywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:mysterywood"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_mysterywood"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:mysterywood'
+[05:08:10] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/mysterywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:mysterywood_log"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_mysterywood_log"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:mysterywood_log'
+[05:08:10] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_cherrywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_cherrywood"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:cherrywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_cherrywood'
+[05:08:10] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/cherrywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:cherrywood_log"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_cherrywood_log"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherrywood_log'
+[05:08:10] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/cherrywood[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:cherrywood"}],"processingTime":50,"results":[{"item":"forbidden_arcanus:stripped_cherrywood"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:cherrywood'
+[05:08:10] [WARN] Error parsing recipe create:cutting/compat/forbidden_arcanus/stripped_mysterywood_log[create:cutting]: {"type":"create:cutting","conditions":[{"type":"forge:mod_loaded","modid":"forbidden_arcanus"}],"ingredients":[{"item":"forbidden_arcanus:stripped_mysterywood_log"}],"processingTime":50,"results":[{"count":6,"item":"forbidden_arcanus:mysterywood_planks"}]}: com.google.gson.JsonSyntaxException: Unknown item 'forbidden_arcanus:stripped_mysterywood_log'
+[05:08:11] [INFO] Added 1618 recipes, removed 263 recipes, modified 3 recipes, with 8 failed recipes in 2.227 s
