@@ -1,0 +1,109 @@
+[00:32:02] [INFO ] Loaded script server_scripts:tags.js in 0.029 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/envirotech/envirotech.js in 0.018 s
+[00:32:02] [INFO ] Loaded script server_scripts:unify.js in 0.04 s
+[00:32:02] [INFO ] Loaded script server_scripts:constants.js in 0.005 s
+[00:32:02] [INFO ] Loaded script server_scripts:stonecutting.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/chisel/chisel.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/xreliquary/xreliquary.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/astralsorcery/astralsorcery.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/biggerreactors/biggerreactors.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/refinedstorage/refinedstorage.js in 0.004 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/zycraft/zycraft.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/quark/quark.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/cyclic/cyclic.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/iceandfire/iceandfire.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/comforts/comforts.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/pedestals/pedestals.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/uu_matter_recipes.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/alltheores.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/atm_star.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/allthemodium.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_allthemods/atm_shard.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/biomesoplenty/biomesoplenty.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/integrated_dynamics/integrated_dynamics.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/bagofyurting/bagofyurting.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/byg/byg.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/forbidden_arcanus/forbidden_arcanus.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/iron_jetpacks/iron_jetpacks.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_misc/misc.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/powah/powah.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/entangled/entangled.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/macaw/macaw.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/mininggadgets/mininggadgets.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/tconstruct/tconstruct.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/tombstone/tombstone.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/rftools/rftools.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/rftools/dimension_builder.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/ars_nouveau/ars.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/mysticalagriculture/mysticalagriculture.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/storage_drawers/storage_drawers.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/apotheosis/apotheosis.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/woot/woot.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/metalbarrels/metalbarrels.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/angelring/angelring.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/resourcefulbees/resourcefulbees.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/resourcefulbees/comb_recipes.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/resourcefulbees/natural_spawn_recipes.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/solarflux/solarflux.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/botania/botania.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/botania/mjollnir.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/computercraft/computercraft.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/framedblocks/framedblocks.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/mekanism/mekanism.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/explorerscompass/explorerscompass.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/akashic_tome/akashic_tome.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/universal_grid/universal_grid.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/thermal/thermal.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/buildinggadgets/buildinggadgets.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/projectred/projectred.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/quarryplus/quarryplus.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/pams_harvestcraft/pams.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/pneumaticcraft/pneumaticcraft.js in 0.002 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/compact_machines/compct_machines.js in 0.0 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/_minecraft/minecraft.js in 0.006 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/botany_pots/botany_pots.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/applied_energistics2/applied_energistics2.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/create/create.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/immersive_engineering/immersive_engineering.js in 0.004 s
+[00:32:02] [INFO ] Loaded script server_scripts:mod_specific/immersive_engineering/cloche.js in 0.005 s
+[00:32:02] [INFO ] Loaded script server_scripts:advanced_interactions/atm_shards.js in 0.003 s
+[00:32:02] [INFO ] Loaded script server_scripts:advanced_interactions/turtles.js in 0.001 s
+[00:32:02] [INFO ] Loaded script server_scripts:advanced_interactions/multiblock.js in 0.002 s
+[00:32:02] [INFO ] Loaded 71/71 KubeJS server scripts in 0.215 s
+[00:32:02] [INFO ] Scripts loaded
+[00:32:03] [INFO ] Scanning recipes...
+[00:32:08] [INFO ] [blocks] Found 1807 tags, added 4549 objects, removed 46 objects
+[00:32:08] [INFO ] [blocks] Found 1807 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [items] Found 3767 tags, added 2044 objects, removed 19 objects
+[00:32:10] [INFO ] [items] Found 3767 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [fluids] Found 165 tags, added 67 objects, removed 0 objects
+[00:32:10] [INFO ] [fluids] Found 165 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [entity_types] Found 52 tags, added 652 objects, removed 0 objects
+[00:32:10] [INFO ] [entity_types] Found 52 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [tunnel_types] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [potions] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [pigments] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [enchantments] Found 1 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [tile_entity_types] Found 5 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [slurries] Found 2 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [infuse_types] Found 8 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[00:32:10] [INFO ] [gases] Found 5 tags, added 0 objects, removed 0 objects
+[00:32:11] [WARN ] Failed to parse recipe 'botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
+[00:32:11] [WARN ] Failed to parse recipe botanytrees:tconstruct/earth_slime_sappling[botanypots:crop]: com.google.gson.JsonSyntaxException: Missing minRolls, expected to find a Int
+[00:32:12] [INFO ] Found 37900 recipes and 0 failed recipes in 1.946 s
+[00:32:18] [INFO ] Posted recipe events in 5.958 s
+[00:32:19] [INFO ] Modified & removed recipes in 896.7 ms
+[00:32:19] [INFO ] Added recipes in 360.4 ms
+[00:32:19] [INFO ] Added 1835 recipes, removed 1464 recipes, modified 7906 recipes, with 0 failed recipes and 0 fall-backed recipes
+[00:32:21] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:21] [INFO ] [functions] Found 0 tags, added 0 objects, removed 0 objects
+[00:32:24] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects
+[00:32:24] [INFO ] [il_tags/elementalcraft_runes] Found 3 tags, added 0 objects, removed 0 objects

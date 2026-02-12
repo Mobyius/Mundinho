@@ -1,0 +1,5 @@
+[00:31:35] [INFO ] Loaded script startup_scripts:modification.js in 0.16 s
+[00:31:35] [INFO ] Loaded script startup_scripts:custom_items.js in 0.006 s
+[00:31:35] [INFO ] Loaded script startup_scripts:worldgen_add.js in 0.001 s
+[00:31:35] [INFO ] Loaded script startup_scripts:worldgen.js in 0.001 s
+[00:31:35] [INFO ] Loaded 4/4 KubeJS startup scripts in 0.344 s

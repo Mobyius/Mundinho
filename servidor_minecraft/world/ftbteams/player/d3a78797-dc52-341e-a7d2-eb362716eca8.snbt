@@ -1,0 +1,20 @@
+{
+	id: "d3a78797-dc52-341e-a7d2-eb362716eca8"
+	type: "player"
+	player_name: "whosscully"
+	ranks: {
+		d3a78797-dc52-341e-a7d2-eb362716eca8: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "whosscully"
+		"ftbteams:color": "#FF5961"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
